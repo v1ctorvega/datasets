@@ -1,0 +1,1001 @@
+response_date,student_id,school_name,service_evaluated,qualification_service,reason
+2023-03-12,S-01234,Greenwood High School,academic quality,8,"Overall the coursework is solid, but the pacing can be rough during exams."
+2023-04-02,S-04567,Riverside Academy,professor teachings,9,"Professors explain concepts clearly most days, though a few slides move too fast."
+2023-05-21,S-08912,Hillcrest School,sports facilities,6,"The gym has the basics, but the courts get crowded after lunch and the equipment needs upkeep."
+2023-06-15,S-14325,Maple Leaf School,extracurricular activities,7,"There are options, but it feels like some clubs don’t get enough funding or interest from seniors."
+2023-07-08,S-26738,Sunrise Institute,personal motivation,8,"Encouragement is present, yet I sometimes wish more personalized guidance for long-term goals."
+2023-08-30,S-39012,Lakeside College,school climate,7,"The vibe is mostly positive, but it can get tense during grading periods and crowding in hallways."
+2023-09-17,S-50423,Pine Valley School,communication with school,7,"Admins reply relatively quick, yet messages about schedule changes get lost sometimes."
+2023-10-05,S-65894,Cedar Grove School,academic quality,5,Coursework is okay but the feedback on essays is inconsistent and slow.
+2023-11-11,S-77123,Silver Oak School,professor teachings,10,"Instructors are engaging, patient, and push us to think critically every class."
+2023-12-19,S-88765,Blue Horizon School,sports facilities,4,Facilities feel outdated; the track is rough and the gym floor is slick in spots.
+2024-01-22,S-91234,Greenwood High School,extracurricular activities,8,"There are clubs I love, but some weeks the events are canceled last minute."
+2024-02-14,S-10293,Riverside Academy,personal motivation,6,"Motivation is there, but I wish more mentors check in about progress."
+2024-03-09,S-11475,Hillcrest School,school climate,9,Overall atmosphere is supportive; teachers and peers make the school feel safe.
+2024-04-30,S-12658,Maple Leaf School,communication with school,8,"Messages to the front desk are usually answered, but some admin emails go unanswered for days."
+2024-05-18,S-13847,Sunrise Institute,academic quality,7,"The courses challenge me, yet some topics are covered too quickly for mastery."
+2024-06-07,S-15023,Lakeside College,professor teachings,6,"Some teachers are great, others seem distracted; need more consistency."
+2024-07-21,S-16290,Pine Valley School,sports facilities,9,Facility upgrades are noticeable; field and gym are clean and well-maintained.
+2024-08-16,S-17456,Cedar Grove School,extracurricular activities,5,Not enough time slots for clubs I’m interested in; coordination could improve.
+2024-09-03,S-18671,Silver Oak School,personal motivation,7,"I feel capable, but I’d appreciate clearer goals and milestones to aim for."
+2024-10-28,S-19872,Blue Horizon School,school climate,8,"Peer support is strong, yet the administration sometimes seems distant during core weeks."
+2024-11-09,S-21098,Greenwood High School,communication with school,9,"They keep parents in the loop and staff are easy to reach, which helps with scheduling."
+2025-01-14,S-22340,Riverside Academy,academic quality,6,"Coursework is fine, but grading can feel opaque and slow at times."
+2023-03-12,S-00001,Greenwood High School,academic quality,9,"The coursework is solid and explanations clear, though a few topics felt rushed in places."
+2023-04-18,S-00002,Riverside Academy,professor teachings,8,"Professors explain well most of the time, but the pacing can get slow during dense chapters."
+2023-05-04,S-00003,Hillcrest School,sports facilities,7,"Facilities are decent; gym hours clash with practice, making it tough to train."
+2023-06-21,S-00004,Maple Leaf School,extracurricular activities,8,"There are lots of clubs, but I wish there were more leadership roles for younger students."
+2023-09-10,S-00005,Sunrise Institute,personal motivation,6,"Sometimes I feel the school barely pushes me to stay on track, need more encouragement."
+2024-01-15,S-00006,Lakeside College,school climate,7,"Overall vibe is positive, though a few classes feel overcrowded and loud."
+2024-02-28,S-00007,Pine Valley School,communication with school,9,"Emails and notices are timely; I always know what’s going on, very helpful."
+2024-03-22,S-00008,Cedar Grove School,academic quality,8,"Lessons are mostly engaging, yet some resources could be updated to reflect current standards."
+2024-04-07,S-00009,Silver Oak School,professor teachings,7,"Some teachers are fantastic, others could be more organized during labs."
+2024-05-30,S-00010,Blue Horizon School,sports facilities,6,"Fields are okay, but maintenance days interrupt practice schedules more than expected."
+2024-07-19,S-00011,Greenwood High School,extracurricular activities,9,Lotsa clubs with real projects—feels like they actually value student interests.
+2024-08-11,S-00012,Riverside Academy,personal motivation,5,"I sometimes feel lost, need clearer goals and more check-ins from mentors."
+2024-09-02,S-00013,Hillcrest School,school climate,7,"Supportive environment overall, but some corridors get chaotic during lunch rush."
+2024-10-17,S-00014,Maple Leaf School,communication with school,8,"Front desk is helpful and replies fast, though system glitches happen occasionally."
+2024-11-05,S-00015,Sunrise Institute,academic quality,6,"Content is solid but a bit outdated in some topics, needs refreshing."
+2025-01-12,S-00016,Lakeside College,professor teachings,10,Incredible mentors who make tough material feel doable; love the feedback style.
+2025-02-20,S-00017,Pine Valley School,sports facilities,8,"Gym and track are great most days, a few upgrades would boost performance."
+2025-03-08,S-00018,Cedar Grove School,extracurricular activities,7,"There’s something for everyone, yet I wish more funding for competitions."
+2025-04-25,S-00019,Silver Oak School,personal motivation,9,Motivation from teachers and peers keeps me going even when topics get hard.
+2025-06-02,S-00020,Blue Horizon School,school climate,6,"Nice people here, but a few cliques make some rooms feel less welcoming."
+2023-02-14,S-10234,Greenwood High School,academic quality,8,"Overall quality is solid, but some courses feel rushed."
+2023-03-01,S-20485,Riverside Academy,professor teachings,9,"Professors know their stuff, explains concepts with clarity most days."
+2023-04-22,S-31764,Hillcrest School,sports facilities,6,"Facilities are decent, gym equipment could be more up-to-date and the courts cleaner."
+2023-05-18,S-45821,Maple Leaf School,extracurricular activities,7,"There are some clubs that interest me, but a few options disappear after semester ends."
+2023-06-05,S-57219,Sunrise Institute,personal motivation,8,"Motivation feels encouraged by peers and teachers, yet sometimes workload dampens drive."
+2023-07-11,S-68345,Lakeside College,school climate,7,"School vibe is generally positive, but mornings can be noisy and distracting."
+2023-08-29,S-79102,Pine Valley School,communication with school,6,Info flow could be faster; messages sometimes get lost in inboxes.
+2023-09-12,S-88123,Cedar Grove School,academic quality,9,Course materials are thorough and well-structured; exams align with what we learn.
+2023-10-03,S-99076,Silver Oak School,professor teachings,5,Some instructors rush through topics; need more examples and slower pacing.
+2023-11-19,S-10458,Blue Horizon School,sports facilities,8,"Facilities look good, courts are clean and schedules are reliable."
+2023-12-08,S-20341,Greenwood High School,extracurricular activities,6,I wish there were more tech-related clubs; robotics is scarce here.
+2024-01-15,S-30672,Riverside Academy,personal motivation,7,"Encouragement from mentors helps, but personal goals sometimes feel far away."
+2024-02-22,S-41259,Hillcrest School,school climate,8,The environment is generally welcoming; some halls feel crowded during passing period.
+2024-03-07,S-52814,Maple Leaf School,communication with school,7,"Emails reach admin, but responses take a bit longer than expected."
+2024-04-18,S-64051,Sunrise Institute,academic quality,10,Curriculum is rigorous and pushes me to think deeper—loving the challenge.
+2024-05-23,S-74592,Lakeside College,professor teachings,8,Lectures are engaging when prepared; occasional jargon makes some topics hard.
+2024-06-09,S-85273,Pine Valley School,sports facilities,5,"Gym is outdated and equipment doesn’t always work, needs investment."
+2024-07-31,S-96431,Cedar Grove School,extracurricular activities,9,There are cool options; I joined a debate club which is awesome.
+2024-08-19,S-10568,Silver Oak School,personal motivation,6,"Motivation varies day to day; some days I feel inspired, others I’m lazy."
+2024-09-11,S-11827,Blue Horizon School,school climate,7,"Overall vibe is friendly, but the front desk could be more helpful."
+2024-10-02,S-22184,Greenwood High School,communication with school,9,Messages are clear and timely; I appreciate the transparency from admin.
+2024-11-28,S-33297,Riverside Academy,academic quality,7,"Coursework challenging, yet the assignments sometimes feel repetitive and long."
+2023-02-14,S-10001,Greenwood High School,academic quality,8,"Classes are solid, but some topics move too fast for me."
+2023-03-07,S-10002,Riverside Academy,professor teachings,9,"Professors explain stuff clearly most days, still a few lectures drag on."
+2023-04-22,S-10003,Hillcrest School,sports facilities,7,Gym area feels cramped; equipment is decent but not up to date.
+2023-05-18,S-10004,Maple Leaf School,extracurricular activities,6,"There are clubs, but I wish there was more student-led options."
+2023-06-30,S-10005,Sunrise Institute,personal motivation,8,"I stay motivated because peers push me, but counseling could be better."
+2023-07-15,S-10006,Lakeside College,school climate,7,"The vibe is generally positive, yet some admin processes feel cold."
+2023-08-22,S-10007,Pine Valley School,communication with school,8,"Emails get answered, but sometimes stuff takes too long to resolve."
+2023-09-11,S-10008,Cedar Grove School,academic quality,9,Coursework is challenging but fair; I’m learning a lot.
+2023-10-05,S-10009,Silver Oak School,professor teachings,7,"Lectures are mostly engaging, a few presenters could use examples."
+2023-11-29,S-10010,Blue Horizon School,sports facilities,6,"Fields are decent, but courts need resurfacing soon."
+2024-01-12,S-10011,Greenwood High School,extracurricular activities,9,"There’s a club for almost anything, I found my people here."
+2024-02-20,S-10012,Riverside Academy,personal motivation,7,"Motivation comes from friends, teachers push you, still room for more support."
+2024-03-30,S-10013,Hillcrest School,school climate,8,"Friendly environment, but some corridors feel overcrowded during lunch."
+2024-04-14,S-10014,Maple Leaf School,communication with school,9,"Staff are approachable and listen, despite occasional miscommunication."
+2024-05-21,S-10015,Sunrise Institute,academic quality,6,"The syllabus is enough, but assessment feels inconsistent."
+2024-06-02,S-10016,Lakeside College,professor teachings,8,Clear explanations most days; some demos would help.
+2024-07-19,S-10017,Pine Valley School,sports facilities,7,"Good facility access, though some equipment is broken."
+2024-08-26,S-10018,Cedar Grove School,extracurricular activities,8,I joined robotics and debate; both are well-supported here.
+2024-09-13,S-10019,Silver Oak School,personal motivation,9,I feel driven because teachers believe in me; it helps a lot.
+2024-10-07,S-10020,Blue Horizon School,communication with school,6,"Messages sometimes vanish; still, meetings help when scheduled."
+2023-02-14,S-00001,Greenwood High School,academic quality,8,"Overall solid coursework, but some topics felt rushed and a bit dense at times."
+2023-03-21,S-00002,Riverside Academy,professor teachings,9,"Teacher explains concepts clearly most days, though a couple sessions were kind of flat and skipped examples."
+2023-04-18,S-00003,Hillcrest School,sports facilities,7,"The gym has good equipment, but the court surfaces need maintenance; gaming courts are nice though."
+2023-05-02,S-00004,Maple Leaf School,extracurricular activities,6,"There are clubs I like, but reminders and scheduling can be inconsistent, which makes it hard to commit."
+2023-06-11,S-00005,Sunrise Institute,personal motivation,8,Motivational talks help me push through; some days I still feel kinda overwhelmed.
+2023-07-19,S-00006,Lakeside College,school climate,7,"The vibe is generally friendly, but the halls feel crowded during lunch."
+2023-08-23,S-00007,Pine Valley School,communication with school,8,"Emails are answered fast, but sometimes important updates get buried in the inbox."
+2023-09-30,S-00008,Cedar Grove School,academic quality,9,"Curriculum seems rigorous and relevant, though a few topics could use more real-world examples."
+2023-11-15,S-00009,Silver Oak School,professor teachings,6,Lectures are okay but a bit monotone; needs more interactive activities.
+2024-01-08,S-00010,Blue Horizon School,sports facilities,8,"Sports facilities are great, the track is smooth and the weight room is well-stocked."
+2024-02-14,S-00011,Greenwood High School,extracurricular activities,7,"There are decent options, but some interesting clubs have limited meeting times."
+2024-03-07,S-00012,Riverside Academy,personal motivation,7,"I get encouraged by peers, though I still struggle with procrastination on big assignments."
+2024-04-22,S-00013,Hillcrest School,school climate,9,School feels inclusive and supportive; a few new students may still feel invisible.
+2024-05-30,S-00014,Maple Leaf School,communication with school,6,Notifications sometimes miss the mark; need clearer channels for urgent matters.
+2024-07-09,S-00015,Sunrise Institute,academic quality,8,"Coursework aligns with what we’re learning in practice, but some assessments could be clearer."
+2024-08-16,S-00016,Lakeside College,professor teachings,9,"Professors are engaging and ready to help after class, which makes difficult topics easier."
+2024-09-27,S-00017,Pine Valley School,sports facilities,5,Facilities are decent but the gym is sometimes crowded and equipment wears out quicker.
+2024-10-18,S-00018,Cedar Grove School,extracurricular activities,7,Clubs are okay; would like more student-led initiatives and events.
+2024-11-29,S-00019,Silver Oak School,personal motivation,8,"Feeling more driven after mentor sessions, though motivation dips during midterms."
+2025-02-04,S-00020,Blue Horizon School,communication with school,7,"Messages usually get through, but there are occasional delays that stress schedules."
+2023-02-14,S-20485,Greenwood High School,academic quality,8,"Overall the coursework is solid, but some topics feel rushed in the midterms."
+2023-03-22,S-16893,Riverside Academy,professor teachings,9,"Professors explain concepts clearly most days, yet a few lectures were a bit dry and skipped examples."
+2023-05-11,S-30122,Hillcrest School,sports facilities,6,"Gym is decent, but crowded after 5 pm and the equipment needs maintenance."
+2023-06-30,S-40211,Maple Leaf School,extracurricular activities,7,"There are clubs I like, but chances to lead projects are scarce and need better promotion."
+2023-09-04,S-55890,Sunrise Institute,personal motivation,8,"The teachers push us to think for ourselves, though goals are not always clearly connected to real-life work."
+2023-11-19,S-77321,Lakeside College,school climate,7,"Environment is generally positive, but some corners of the campus feel neglected and noisy."
+2024-01-15,S-10192,Pine Valley School,communication with school,5,Messages sometimes take too long to answer and the portal is not always reliable.
+2024-03-03,S-55671,Cedar Grove School,academic quality,9,Course materials are thorough and the pacing makes sense most of the time.
+2024-04-27,S-43058,Silver Oak School,professor teachings,6,"Lectures are engaging when the teacher shows real-world examples, but some slides are too text-heavy."
+2024-06-10,S-28947,Blue Horizon School,sports facilities,8,"Field access is good and the gym has new machines, just wish schedules were clearer."
+2024-07-19,S-90231,Greenwood High School,extracurricular activities,9,"There’s a club for nearly everything and leadership roles pop up often, which is awesome."
+2024-09-05,S-74512,Riverside Academy,personal motivation,6,"The guidance counselor helps, but some peers seem unsure about goals and need more direction."
+2024-10-29,S-33214,Hillcrest School,school climate,7,"Feels supportive most days, though the cafeteria noise can be overwhelming during lunch."
+2024-12-08,S-57863,Maple Leaf School,communication with school,4,Emails sometimes get lost; important updates arrive late and with typos.
+2025-02-18,S-42091,Sunrise Institute,academic quality,8,"Coursework is rigorous but fair, and feedback helps me improve steadily."
+2025-03-12,S-66752,Lakeside College,professor teachings,7,Professors are supportive; a few could use more interactive activity in lectures.
+2025-04-25,S-21108,Pine Valley School,sports facilities,5,Sports spaces feel cramped in peak times; washing facilities sometimes out of order.
+2025-05-09,S-15500,Cedar Grove School,extracurricular activities,8,"There’s a good mix of clubs, but some events are poorly advertised and easy to miss."
+2025-06-18,S-90876,Silver Oak School,personal motivation,9,"I feel encouraged to chase ambitious projects, which pushes me to work harder."
+2023-03-15,S-04231,Greenwood High School,academic quality,8,"Overall quality is solid, but some lectures felt rushed and left me wanting deeper explanations."
+2023-05-22,S-11876,Riverside Academy,professor teachings,9,"The professor explained tough concepts well, though a few classes dragged mid-term week."
+2023-11-02,S-90521,Hillcrest School,sports facilities,7,Facilities are decent but the gym often gets crowded; update schedule would help.
+2024-01-18,S-32058,Maple Leaf School,extracurricular activities,8,"There are lots of options, but some clubs lack proper supervision."
+2024-04-09,S-76432,Sunrise Institute,personal motivation,6,"Motivation varies by topic, some days I feel motivated, other days I’m not as engaged."
+2024-07-30,S-50219,Lakeside College,school climate,7,"The vibe is friendly, though a few corridors feel tense during peak times."
+2024-09-12,S-29104,Pine Valley School,communication with school,8,"Info reaches me quickly when needed, but transition messages sometimes mix up deadlines."
+2024-10-25,S-67340,Cedar Grove School,academic quality,9,Lectures are clear and structured; the support materials are very helpful.
+2025-02-14,S-78421,Silver Oak School,professor teachings,6,"Some instructors are great, others could be more approachable in office hours."
+2025-04-01,S-11077,Blue Horizon School,sports facilities,8,"Play spaces are well maintained, though equipment could be updated more often."
+2023-08-19,S-63411,Greenwood High School,extracurricular activities,7,"Clubs exist for many interests, but communication about events is inconsistent."
+2023-12-05,S-21239,Riverside Academy,personal motivation,7,"Some weeks I feel driven, other weeks I struggle with time management."
+2024-03-28,S-99821,Hillcrest School,school climate,8,"There’s generally a respectful atmosphere, though sometimes rumors create a negative vibe."
+2024-06-11,S-32104,Maple Leaf School,communication with school,9,"Messages come through fast and clear, love the online portal’s updates."
+2024-08-27,S-55092,Sunrise Institute,academic quality,7,Some courses are rigorous but fair; a bit more practical examples would help.
+2025-01-09,S-40831,Lakeside College,professor teachings,10,"Instructors are phenomenal—clear, patient, and genuinely engaged with students."
+2025-03-16,S-71920,Pine Valley School,sports facilities,5,"Facilities are outdated, and maintenance is slow when things break down."
+2025-05-03,S-13372,Cedar Grove School,extracurricular activities,8,"There’s a club for everyone, though some events feel under-promoted and hard to find."
+2023-04-02,S-88888,Blue Horizon School,personal motivation,7,I’m generally motivated but external stress makes focus tough some days.
+2023-07-25,S-67955,Silver Oak School,school climate,6,"The environment is okay, yet rumors and gossip sometimes spill into classes."
+2023-03-15,S-04215,Greenwood High School,academic quality,8,"classes feel solid, but sometimes the lectures move too fast; materials are good, just need more guided practice."
+2023-05-22,S-10487,Riverside Academy,professor teachings,9,"teachers know their stuff, explanations click most times. a couple of periods were rough, yet overall I learned a lot."
+2023-11-02,S-23011,Hillcrest School,sports facilities,6,"gym gear is decent, courts could use better maintenance; still, I enjoy the basketball games when facilities cooperate."
+2024-01-17,S-31570,Maple Leaf School,extracurricular activities,7,"there's a good mix of clubs, just wish the signup was less chaotic and more accessible."
+2024-02-09,S-50123,Sunrise Institute,personal motivation,8,the counselors push you to set goals and follow through; I appreciate the accountability.
+2024-03-30,S-61234,Lakeside College,school climate,7,"friendly vibe most days, though a few corridors feel crowded and noisy during peak hours."
+2024-04-18,S-74002,Pine Valley School,communication with school,6,"emails reach us, but sometimes responses lag; messages from teachers sometimes feel impersonal."
+2024-05-20,S-86019,Cedar Grove School,academic quality,9,"rigorous courses and clear assessments, I finally understand calculus concepts well."
+2024-07-11,S-91234,Silver Oak School,professor teachings,5,"some professors are engaging, others seem rushed; need more practical examples."
+2024-08-28,S-10243,Blue Horizon School,sports facilities,8,the track and gym have been improved this year; running workouts are now actually enjoyable.
+2024-09-14,S-11345,Greenwood High School,extracurricular activities,6,clubs exist but schedules clash with study time; better coordination would help.
+2024-10-07,S-24118,Riverside Academy,personal motivation,7,"daily pep talks help, but some days I still feel stuck; keep it up though."
+2024-11-21,S-34455,Hillcrest School,school climate,8,positive environment most days; need more inclusive events to involve everyone.
+2025-01-09,S-45566,Maple Leaf School,communication with school,7,info from admin is clear; slow to respond when issues arise.
+2025-02-28,S-56677,Sunrise Institute,academic quality,10,really wowed by the depth of topics and the way assignments build understanding.
+2025-03-19,S-67788,Lakeside College,professor teachings,6,"professors vary; some engage, others drift; need consistency."
+2025-04-06,S-78899,Pine Valley School,sports facilities,5,the fields feel neglected; it’s hard to stay motivated when things look run down.
+2025-05-01,S-89900,Cedar Grove School,extracurricular activities,9,"wide range of activities, I found a perfect club for my interests, really enjoying it."
+2025-06-18,S-90901,Silver Oak School,communication with school,7,"staff are friendly and reachable, but sometimes the follow-through could be better."
+2023-03-15,S-10482,Greenwood High School,academic quality,8,"The core content is solid, but sometimes the pacing felt off and I had to catch up with classmates."
+2023-05-22,S-09471,Riverside Academy,professor teachings,9,"Professors explain things clearly most days, but a few lectures were rushed and left me a bit lost."
+2023-11-02,S-20311,Hillcrest School,sports facilities,6,"Facilities are decent, but the gym air could be better; machines sometimes out of order."
+2024-01-18,S-37590,Maple Leaf School,extracurricular activities,7,"There are clubs, yet schedules clash with exams, making it hard to join more than one."
+2024-02-20,S-48201,Sunrise Institute,personal motivation,8,"Motivation boosts when teachers show real interest in students’ goals, not just grades."
+2024-04-09,S-56012,Lakeside College,school climate,7,"Overall vibe is positive, but there’s drama in some groups that can distract during study time."
+2024-06-14,S-79531,Pine Valley School,communication with school,5,Info flow not always consistent; messages sometimes arrive late or get lost in inboxes.
+2024-08-29,S-82174,Cedar Grove School,academic quality,9,"The syllabus is clear and the homework challenging in a good way, teachers push you to think."
+2024-09-03,S-91304,Silver Oak School,professor teachings,10,Lecturers are engaging and patient; I actually enjoy attending class most days.
+2024-10-11,S-03421,Blue Horizon School,sports facilities,4,"Gym equipment is outdated and the facilities feel cramped, not ideal for serious practice."
+2023-12-01,S-16783,Greenwood High School,extracurricular activities,6,Clubs are there but some have long waiting lists and organizers aren’t responsive.
+2023-12-18,S-27654,Riverside Academy,personal motivation,7,People around me keep me going; some teachers mistakenly think you’re not trying when you are.
+2024-02-02,S-39876,Hillcrest School,school climate,6,"There’s a generally friendly vibe, but the cafeteria noise makes it hard to focus."
+2024-03-28,S-51277,Maple Leaf School,communication with school,6,"Admins are reachable but replies arrive late, leaving questions hanging."
+2024-05-19,S-63012,Sunrise Institute,academic quality,5,Sometimes the lectures feel generic and not tailored to what we actually need.
+2024-07-07,S-74923,Lakeside College,professor teachings,8,"Professors know their stuff, but a few skim the surface during midterms."
+2024-08-21,S-12099,Pine Valley School,sports facilities,9,"The gym is well equipped and clean, great space for practice and teams."
+2024-10-29,S-41102,Cedar Grove School,extracurricular activities,8,"There’s a club for almost everything, which is amazing, though some events conflict with sports schedules."
+2025-01-14,S-23818,Silver Oak School,communication with school,7,"Staff are friendly, but sometimes directives aren’t as clear as they should be."
+2023-03-15,S-10425,Greenwood High School,academic quality,8,"Overall the curriculum is solid, but assessments feel pressure-filled and not always aligned with what we actually learn in class."
+2023-04-02,S-11091,Riverside Academy,professor teachings,9,"Professors explain concepts clearly most of the time, though a few slides could use more real-world examples to connect theory with practice."
+2023-05-20,S-20314,Hillcrest School,sports facilities,6,"The gym is decent, but the basketball court is sometimes crowded and the equipment feels a bit dated."
+2024-01-11,S-30972,Maple Leaf School,extracurricular activities,7,"There are enough clubs, but signing up can be confusing and some activities clash with study time."
+2024-02-18,S-40291,Sunrise Institute,personal motivation,8,"The counselors motivate me to set goals, though the workload makes it hard to stay excited about projects."
+2024-03-25,S-51742,Lakeside College,school climate,7,"The vibe is generally positive, but there are moments of tension during exams that add unnecessary stress."
+2024-04-09,S-61284,Pine Valley School,communication with school,6,"Messages sometimes get delayed and important info gets buried in email threads, which is frustrating."
+2024-05-14,S-71906,Cedar Grove School,academic quality,9,Course materials are rigorous and helpful; feedback on assignments is timely and pretty insightful.
+2024-06-01,S-82573,Silver Oak School,professor teachings,5,"Some teachers are engaging, others seem to rush through topics, leaving me with questions."
+2025-01-27,S-93641,Blue Horizon School,sports facilities,7,"Facility updates are noticeable, but the track lanes need resurfacing and the gym could use better cardio machines."
+2025-02-13,S-104682,Greenwood High School,extracurricular activities,8,"There are clubs for almost everything, yet promo events are sporadic which makes planning hard."
+2025-03-08,S-115493,Riverside Academy,personal motivation,7,"Staff encouragement is good, but sometimes the day-to-day tasks steal time from personal goals."
+2025-04-22,S-126704,Hillcrest School,school climate,8,"Overall supportive environment, but a couple of instructors could be more approachable with concerns."
+2025-05-07,S-137809,Maple Leaf School,communication with school,7,"School notices reach me, yet discussions about issues happen too late to affect decisions."
+2023-07-19,S-148920,Sunrise Institute,academic quality,6,"Coursework is fine, but the grading rubric sometimes feels unfairly strict."
+2023-08-30,S-159310,Lakeside College,professor teachings,9,"Lectures are engaging and the professors are patient with questions, really helps my understanding."
+2023-09-12,S-167204,Pine Valley School,sports facilities,6,Facilities are decent but the weight room smells funny and some machines are out of order.
+2024-08-06,S-178940,Cedar Grove School,extracurricular activities,7,Clubs are fun but the signup process is a nightmare and info changes without notice.
+2024-09-11,S-189321,Silver Oak School,personal motivation,8,"I like how mentors push me to set steps, even when I procrastinate."
+2024-10-29,S-199503,Blue Horizon School,school climate,7,Mostly supportive but there are blind spots: some students feel unseen during class discussions.
+2023-03-12,S-10457,Greenwood High School,academic quality,8,"overall the courses are strong, but sometimes the material moves too fast for new students."
+2023-04-02,S-20483,Riverside Academy,professor teachings,9,"the professor explains things clearly most of the time, but a few lectures could use real-world examples."
+2024-09-15,S-31876,Hillcrest School,sports facilities,7,"gym has decent gear, yet the courts feel dated and crowded after lunch."
+2023-11-21,S-42011,Maple Leaf School,extracurricular activities,8,"clubs are varied and accessible, though some events clash with study sessions."
+2025-02-07,S-55123,Sunrise Institute,personal motivation,6,"i try, but sometimes the school push feels generic and token."
+2023-07-19,S-67234,Lakeside College,school climate,7,"the vibe is friendly, but there are pockets of stress during midterms."
+2024-05-28,S-78112,Pine Valley School,communication with school,8,"emails are answered fairly quick, but I wish they would use more updates via app."
+2024-12-01,S-89945,Cedar Grove School,academic quality,9,courses challenge me in a good way; the teachers push us to think critically.
+2023-10-10,S-93332,Silver Oak School,professor teachings,5,"classroom discussions are okay, but the lecture pacing was off this term."
+2024-01-18,S-10244,Blue Horizon School,sports facilities,6,"fields are fine for practice, but gym equipment is sometimes missing parts."
+2023-08-03,S-11258,Greenwood High School,extracurricular activities,9,there are cool clubs that fit my schedule and the mentors are supportive.
+2024-06-09,S-22377,Riverside Academy,personal motivation,7,"incentives help a bit, but I crave more personalized guidance from counselors."
+2024-09-30,S-33466,Hillcrest School,school climate,8,"students feel safe and heard, though there are occasional cliques in some halls."
+2023-05-14,S-44564,Maple Leaf School,communication with school,7,messages reach me but sometimes I miss important notices.
+2024-03-22,S-55677,Sunrise Institute,academic quality,6,"the syllabus is solid, but some topics were rushed near exams."
+2023-12-04,S-66743,Lakeside College,professor teachings,10,professors go beyond the book; they make topics feel alive.
+2025-01-30,S-77889,Pine Valley School,sports facilities,8,"new gym setup is great, but the track is a bit narrow for large groups."
+2023-09-25,S-88990,Cedar Grove School,extracurricular activities,6,i joined a club but it didn’t meet my expectations this term.
+2024-02-11,S-99101,Silver Oak School,personal motivation,7,"the vibe here helps me keep going, though i wish for more peer support groups."
+2024-08-17,S-20212,Blue Horizon School,communication with school,9,"app notifications are on point and counselors reply fast, love the transparency."
+2023-02-14,S-10234,Greenwood High School,academic quality,8,"The curriculum is solid but the pacing sometimes feels rushed, especially around finals weeks."
+2023-03-09,S-10487,Riverside Academy,professor teachings,9,"Professors explain things clearly most days, but a few lectures drifted off-topic and got hard to follow."
+2023-04-22,S-10726,Hillcrest School,sports facilities,6,Facilities are decent but the gym mats are worn out and the weight room is a bit cramped.
+2023-05-15,S-11003,Maple Leaf School,extracurricular activities,7,"There are many clubs, yet the sign-up process is slow and a few activities overlap schedules."
+2023-06-02,S-11271,Sunrise Institute,personal motivation,8,Feeling more motivated lately thanks to mentors who check in and push us to set better goals.
+2023-07-19,S-11544,Lakeside College,school climate,7,"The vibe is generally positive, but a couple teachers seem tense and that rubs off on the class."
+2023-08-11,S-11860,Pine Valley School,communication with school,5,"Messages get missed often; I send questions and wait days for a reply, kinda frustrating."
+2023-09-30,S-12198,Cedar Grove School,academic quality,9,"Challenging courses, but the homework helps me actually learn and not just chase grades."
+2023-10-24,S-12451,Silver Oak School,professor teachings,10,The lectures are engaging and thought-provoking; I leave class with new ideas every time.
+2023-11-07,S-12722,Blue Horizon School,sports facilities,4,The courts are cracked and the locker rooms smell odd—needs a serious refresh.
+2024-01-14,S-12989,Greenwood High School,extracurricular activities,8,"I joined robotics and debate, both are well-organized, though inter-club days could be better planned."
+2024-02-28,S-13241,Riverside Academy,personal motivation,6,"Not every day is the same; some days I feel stuck, then others I suddenly get a burst of energy."
+2024-03-18,S-13576,Hillcrest School,school climate,6,Some classrooms feel cold and formal; a warmer atmosphere would help participation.
+2024-04-09,S-13820,Maple Leaf School,communication with school,7,"Emails usually get responses, but follow-ups after meetings could be quicker."
+2024-05-25,S-14067,Sunrise Institute,academic quality,7,"Overall good, but a few topics in physics need more real-world examples."
+2024-06-16,S-14312,Lakeside College,professor teachings,5,"Some professors speak fast, and it’s hard to take notes at the same time."
+2024-07-31,S-14588,Pine Valley School,sports facilities,9,"The gym and track are modern, and booking courts is easy most days."
+2024-08-22,S-14840,Cedar Grove School,extracurricular activities,6,Clubs are interesting but the schedule clashes with exams sometimes.
+2024-09-14,S-15107,Silver Oak School,communication with school,8,Staff are reachable and friendly; issues get resolved after a short chat.
+2024-10-09,S-15363,Blue Horizon School,academic quality,7,"The math track is solid, but I wish algebra topics were introduced earlier."
+2024-11-03,S-15629,Greenwood High School,professor teachings,8,"Some lectures are inspiring; others are a bit monotone, but the content is valuable."
+2023-03-15,S-00001,Greenwood High School,academic quality,9,The curriculum is solid and helps me think critically.
+2023-04-22,S-00002,Riverside Academy,professor teachings,8,"Professors explain concepts clearly most days, but a few lectures feel rushed."
+2023-05-18,S-00003,Hillcrest School,sports facilities,7,"The gym is decent, but the basketball courts get crowded during after-school."
+2023-06-10,S-00004,Maple Leaf School,extracurricular activities,8,"There are many clubs, yet it takes forever to get approvals for new ones."
+2023-07-02,S-00005,Sunrise Institute,personal motivation,6,"Some days I feel inspired, other days the workload drains me."
+2023-08-19,S-00006,Lakeside College,school climate,9,The vibe is supportive; classmates look out for each other and teachers are approachable.
+2023-09-11,S-00007,Pine Valley School,communication with school,7,"Emails are answered, but important reminders sometimes slip through the cracks."
+2023-10-25,S-00008,Cedar Grove School,academic quality,8,"Course content is relevant, though some textbooks feel a bit outdated."
+2023-11-29,S-00009,Silver Oak School,professor teachings,9,Lectures are engaging and the professor checks for understanding regularly.
+2023-12-14,S-00010,Blue Horizon School,sports facilities,6,Track and field gear is fine but the indoor facilities could use modernization.
+2024-01-07,S-00011,Greenwood High School,extracurricular activities,7,"Club options are cool, but the signup process is a little clunky."
+2024-02-20,S-00012,Riverside Academy,personal motivation,7,Motivation varies with workload; when projects aren’t too heavy I feel more driven.
+2024-03-30,S-00013,Hillcrest School,school climate,8,"Peer support is strong, seniors mentor freshmen which helps a lot."
+2024-04-18,S-00014,Maple Leaf School,communication with school,6,Sometimes messages get buried in folders; a quick chat option would help.
+2024-05-25,S-00015,Sunrise Institute,academic quality,7,"Course difficulty is fair, but some topics felt repetitive this term."
+2024-06-14,S-00016,Lakeside College,professor teachings,8,"Professors provide useful feedback, though grading could be more transparent."
+2024-07-08,S-00017,Pine Valley School,sports facilities,5,Facilities are okay but maintenance is inconsistent during peak times.
+2024-08-22,S-00018,Cedar Grove School,extracurricular activities,9,Very diverse clubs; I found a perfect fit and made friends with similar interests.
+2024-09-13,S-00019,Silver Oak School,personal motivation,8,I feel more driven when goals are clear and teachers check in regularly.
+2024-10-29,S-00020,Blue Horizon School,communication with school,7,"Response times are decent, but you can never be sure when a reply will come."
+2023-02-14,S-10234,Greenwood High School,academic quality,9,"Overall content is solid, but a few topics feel rushed."
+2023-03-07,S-20487,Riverside Academy,professor teachings,8,"Professors know their stuff, just wish they explained real-world examples more."
+2023-04-20,S-31029,Hillcrest School,sports facilities,7,"Facilities are okay, gym is clean but equipment is sometimes broken."
+2023-05-15,S-41156,Maple Leaf School,extracurricular activities,8,"There are clubs, but new options are a bit limited after lunch."
+2023-06-02,S-52211,Sunrise Institute,personal motivation,6,"Motivation comes from peers more than admin, which is a shame."
+2023-09-11,S-63102,Lakeside College,school climate,7,"The vibe is friendly, but sometimes teacher tones feel off."
+2023-10-28,S-74019,Pine Valley School,communication with school,5,"Emails sometimes get lost, phone lines busy, not very reliable."
+2023-11-03,S-85123,Cedar Grove School,academic quality,9,"The curriculum is strong, assessments are fair, room for projects."
+2024-01-17,S-96234,Silver Oak School,professor teachings,6,"Some lectures are dull, others hit the mark—varies a lot."
+2024-02-22,S-17322,Blue Horizon School,sports facilities,8,"Sports hall is new and roomy, but football field needs better maintenance."
+2024-03-09,S-28457,Greenwood High School,extracurricular activities,7,Clubs are decent but I wish there were more STEM/arts options.
+2024-04-05,S-39567,Riverside Academy,personal motivation,7,"I feel motivated when mentors check in, but not always."
+2024-05-21,S-49678,Hillcrest School,school climate,6,"Bullying policy is there, but enforcement could be stronger."
+2024-06-30,S-50789,Maple Leaf School,communication with school,6,Messages about deadlines get confusing; clarity would help.
+2024-07-12,S-61890,Sunrise Institute,academic quality,8,"Strong teaching, but some subjects feel overpacked."
+2024-08-29,S-72901,Lakeside College,professor teachings,9,Professors explain tough ideas with patience and plenty of examples.
+2024-09-14,S-83012,Pine Valley School,sports facilities,6,"Fields are okay, but track surfaces need resurfacing."
+2024-11-03,S-94143,Cedar Grove School,extracurricular activities,9,Love the variety; the robotics club is awesome and engaging.
+2025-01-18,S-15234,Silver Oak School,personal motivation,5,Nudge from teachers is sparse; need more check-ins.
+2025-02-10,S-26358,Blue Horizon School,communication with school,7,"Staff replies quicker now, though still some delays during peak times."
+2023-02-14,S-12001,Greenwood High School,academic quality,8,"Classes feel well planned, but a few topics are rushed."
+2023-03-02,S-12002,Riverside Academy,professor teachings,9,"Professors explain concepts clearly most days, but a couple skip examples."
+2023-04-18,S-12003,Hillcrest School,sports facilities,7,The gym is decent; the courts need more maintenance and equipment.
+2023-05-21,S-12004,Maple Leaf School,extracurricular activities,6,"There are clubs I’m interested in, but timing clashes with classes."
+2023-06-30,S-12005,Sunrise Institute,personal motivation,8,"Motivation from peers and mentors helps, though sometimes the schedule drags me down."
+2023-07-11,S-12006,Lakeside College,school climate,9,"Overall vibe is positive; a few junior-year tensions pop up, nothing huge."
+2023-08-19,S-12007,Pine Valley School,communication with school,7,"Emails often get answered late, but meetings are usually productive."
+2023-09-05,S-12008,Cedar Grove School,academic quality,5,Some courses feel generic; need more real-world problems.
+2023-10-22,S-12009,Silver Oak School,professor teachings,8,"Teaching is solid, but grading can be inconsistent at times."
+2023-11-16,S-12010,Blue Horizon School,sports facilities,6,"Field conditions vary by season, more indoor options would help."
+2024-01-09,S-12011,Greenwood High School,extracurricular activities,7,There are clubs I like but the signup process is confusing.
+2024-02-14,S-12012,Riverside Academy,personal motivation,9,"The mentor program sparks ambition; still, some days feel draining."
+2024-03-29,S-12013,Hillcrest School,school climate,8,"Peer support is strong, though some seniors can be cliquey."
+2024-04-07,S-12014,Maple Leaf School,communication with school,6,"Info shared during assemblies helps, but direct updates could be more frequent."
+2024-05-15,S-12015,Sunrise Institute,academic quality,7,Course materials are decent but late-handouts happen too often.
+2024-06-01,S-12016,Lakeside College,professor teachings,8,Lectures are engaging; occasionally slides miss key points.
+2024-07-12,S-12017,Pine Valley School,sports facilities,9,"Sports complex is top-notch, highly motivating to train."
+2024-08-28,S-12018,Cedar Grove School,extracurricular activities,8,"There’s a good mix of activities, though some are age-inappropriate for younger students."
+2024-09-10,S-12019,Silver Oak School,personal motivation,6,"I sometimes struggle with focus, but counseling helps a bit."
+2024-10-25,S-12020,Blue Horizon School,communication with school,7,"Admin replies are reasonable, yet a faster feedback loop would be nice."
+2023-03-12,S-10001,Greenwood High School,academic quality,8,"The courses are solid, but sometimes the homework feels like busy work."
+2023-04-22,S-10002,Riverside Academy,professor teachings,9,"Professors know their stuff and explain clearly most of the time, but a few lectures drag on."
+2023-05-15,S-10003,Hillcrest School,sports facilities,7,"The gym is decent, but the equipment is a bit outdated and the fields get crowded."
+2023-06-02,S-10004,Maple Leaf School,extracurricular activities,6,"Clubs are okay, but I wish there were more tech-related groups and leadership roles."
+2023-08-19,S-10005,Sunrise Institute,personal motivation,8,"The counselors help me stay focused, though I sometimes doubt if I’m on the right track."
+2023-09-10,S-10006,Lakeside College,school climate,9,"Overall vibe is positive; peers respect each other and teachers listen, small noise issues aside."
+2024-01-07,S-10007,Pine Valley School,communication with school,7,"Messages reach me, but sometimes announcements come late or get buried in chat groups."
+2024-02-16,S-10008,Cedar Grove School,academic quality,7,"Quality is good, but I would like more feedback on graded work."
+2024-03-28,S-10009,Silver Oak School,professor teachings,8,Teachers present material clearly most days; a few lectures lacked practical examples.
+2024-04-11,S-10010,Blue Horizon School,sports facilities,6,Facility upgrades would be great; the track is decent but the pool needs attention.
+2024-05-03,S-10011,Greenwood High School,extracurricular activities,9,"There are many options, and I found a club that fits perfectly, but logistics can be rough sometimes."
+2024-06-21,S-10012,Riverside Academy,personal motivation,7,"Staff encouraged me, yet I still struggle with staying motivated during finals."
+2024-09-14,S-10013,Hillcrest School,school climate,8,"Inclusive atmosphere, but a few areas feel crowded and noisy during lunch."
+2024-10-05,S-10014,Maple Leaf School,communication with school,9,Clear updates and open channels; teachers reply fairly quickly most days.
+2025-01-23,S-10015,Sunrise Institute,academic quality,8,Rigorous courses with decent pacing; more real-world examples would help.
+2025-02-17,S-10016,Lakeside College,professor teachings,9,"Lectures are engaging, and the way they relate topics to career paths is motivating."
+2025-03-19,S-10017,Pine Valley School,sports facilities,5,"The gym is cramped and gear is worn out, need more courts and up-to-date equipment."
+2025-04-08,S-10018,Cedar Grove School,extracurricular activities,7,"There are clubs, but schedules clash with classes; better planning would help."
+2025-05-29,S-10019,Silver Oak School,personal motivation,8,"I feel supported to chase goals, though sometimes motivation wanes during long projects."
+2025-06-15,S-10020,Blue Horizon School,communication with school,6,Directions and policies could be clearer; some forms are confusing and slow to process.
+2023-02-14,S-10001,Greenwood High School,academic quality,8,"Overall pretty solid, but some lectures felt rushed and not fully aligned with the assignments."
+2023-03-02,S-10002,Riverside Academy,professor teachings,9,"The professor explained concepts clearly most days, but a few sessions could use more real-world examples."
+2023-04-18,S-10003,Hillcrest School,sports facilities,7,"Equipment is decent, but the gym is crowded after lunch and the courts need more maintenance."
+2023-05-12,S-10004,Maple Leaf School,extracurricular activities,8,"There are plenty of clubs, yet I wish there were more beginner-friendly options for newcomers."
+2023-06-30,S-10005,Sunrise Institute,personal motivation,6,"Motivation from staff helps, but lately the pacing feels slow for advanced students."
+2023-08-09,S-10006,Lakeside College,school climate,7,"The vibe is generally positive, though a few hallways get noisy during breaks and distract from study time."
+2023-09-21,S-10007,Pine Valley School,communication with school,8,"Emails and messages usually answered, but important updates sometimes arrive late."
+2023-11-03,S-10008,Cedar Grove School,academic quality,9,"Course content is solid, and assignments push me to think; a bit more feedback would be great."
+2024-01-15,S-10009,Silver Oak School,professor teachings,7,"Professors explain concepts ok, but a few lectures are hard to follow without notes."
+2024-02-07,S-10010,Blue Horizon School,sports facilities,9,"Facilities are top-notch, the gym and field are always accessible and well maintained."
+2024-03-29,S-10011,Greenwood High School,extracurricular activities,7,"There are clubs, but the schedule clashes with classes; more staggered times would help."
+2024-04-20,S-10012,Riverside Academy,personal motivation,8,"Staff encouragement is real, keeps me going, though I wish more mentorship programs existed."
+2024-05-14,S-10013,Hillcrest School,school climate,6,Some students feel left out in certain groups; more inclusive activities needed.
+2024-06-01,S-10014,Maple Leaf School,communication with school,7,"I get replies, but sometimes the information isn’t as clear as it could be."
+2024-07-17,S-10015,Sunrise Institute,academic quality,8,The coursework is challenging in a good way; feedback helps me improve steadily.
+2024-08-25,S-10016,Lakeside College,professor teachings,6,"Some professors are engaging, others feel distant and hard to connect with."
+2024-09-10,S-10017,Pine Valley School,sports facilities,6,Gym equipment is decent but the pool area could be cleaner and safer.
+2024-10-30,S-10018,Cedar Grove School,extracurricular activities,9,"Love the variety, especially creative writing and robotics—keeps me curious."
+2025-02-08,S-10019,Silver Oak School,personal motivation,7,"Motivation comes from peers more than staff, which is great but I crave more formal recognition."
+2025-03-19,S-10020,Blue Horizon School,communication with school,8,"Usually clear messages, though the portal occasionally shows outdated info."
+2023-03-12,S-10432,Greenwood High School,academic quality,8,"Overall content is solid, but sometimes the examples don’t connect to real-world needs."
+2023-05-09,S-47210,Riverside Academy,professor teachings,9,"Professors know the material, but a few lectures felt rushed; more spaced-out topics would help."
+2023-07-21,S-31856,Hillcrest School,sports facilities,6,"Facilities look nice, but some gear is old and the gym gets crowded after lunch."
+2024-01-14,S-89012,Maple Leaf School,extracurricular activities,7,"There are clubs I like, but it’s tough to get funding for new projects sometimes."
+2024-03-28,S-21344,Sunrise Institute,personal motivation,8,"Teacher encouragement helps me stay on track, yet I still have days where I feel unmotivated."
+2024-06-02,S-73001,Lakeside College,school climate,7,The vibe is mostly positive; just wish admin listened to student concerns more.
+2024-08-19,S-97250,Pine Valley School,communication with school,6,"Messages sometimes arrive late, emails could be clearer, but responses are generally helpful."
+2025-02-03,S-15678,Cedar Grove School,academic quality,9,"Curriculum feels rigorous and relevant; occasional typos in handouts, though."
+2025-04-17,S-34401,Silver Oak School,professor teachings,5,Lectures are okay but delivery is monotone; need more interactive sessions.
+2025-05-22,S-66782,Blue Horizon School,sports facilities,8,"Fields are well kept and the teams get good support, but the gym lacks newer equipment."
+2023-04-11,S-50123,Greenwood High School,extracurricular activities,7,"There are options, but the sign-up process is cumbersome sometimes."
+2023-09-25,S-80412,Riverside Academy,personal motivation,7,"Encouragement is there, but I wish more peers would push each other to stay focused."
+2024-12-02,S-21098,Hillcrest School,school climate,8,Positive atmosphere most days; a few instances of rumor-spreading hurt the mood.
+2024-02-20,S-48021,Maple Leaf School,communication with school,9,"Clear channels, timely replies, and teachers actually read messages—that helps."
+2023-11-13,S-21977,Sunrise Institute,academic quality,6,"Content is okay, but some topics feel outdated for the grade level."
+2025-01-07,S-32495,Lakeside College,professor teachings,10,The lectures are stellar; the professor simplifies complex ideas really well.
+2023-08-30,S-99876,Pine Valley School,sports facilities,6,Grounds are decent but the lighting in evening practice is poor.
+2024-07-14,S-13579,Cedar Grove School,extracurricular activities,9,Love the range of clubs; finally found something that clicks for me this year.
+2024-10-05,S-24680,Silver Oak School,personal motivation,7,Motivation comes and goes; peer study groups have helped me a lot.
+2023-12-19,S-77777,Blue Horizon School,school climate,5,"Some days the hallways feel tense, like nobody wants to be there."
+2023-02-14,S-00001,Greenwood High School,academic quality,8,"Overall the courses are solid, but sometimes the pace is a bit slow for advanced topics."
+2023-03-02,S-00002,Riverside Academy,professor teachings,9,"Professors know their stuff, but a few lecture slides feel dated and rushed."
+2023-04-18,S-00003,Hillcrest School,sports facilities,6,"Equipment is decent, but the gym smell funny and some machines are out of order."
+2023-05-09,S-00004,Maple Leaf School,extracurricular activities,7,Love the clubs but would like more beginner-friendly options for seniors.
+2023-06-21,S-00005,Sunrise Institute,personal motivation,8,"I got motivated by peer leaders, keeps me going through tough weeks."
+2023-07-13,S-00006,Lakeside College,school climate,5,I feel included but some tensions between groups lower the vibe.
+2023-08-07,S-00007,Pine Valley School,communication with school,7,"Emails usually reply fast, though sometimes important forms get buried."
+2023-09-11,S-00008,Cedar Grove School,academic quality,9,The math track is rigorous and the science labs are well equipped.
+2023-10-25,S-00009,Silver Oak School,professor teachings,6,"Some profs explain well, others just read powerpoint all class."
+2023-11-30,S-00010,Blue Horizon School,sports facilities,8,"Field is great, but locker rooms need a refresh."
+2024-01-16,S-00011,Greenwood High School,extracurricular activities,6,Not enough variety; more creative clubs would help with engagement.
+2024-02-20,S-00012,Riverside Academy,personal motivation,7,"The counseling office helped me set goals, kinda nice."
+2024-03-08,S-00013,Hillcrest School,school climate,4,"There’s still a lot of gossip and rumors in hallways, not cool."
+2024-04-29,S-00014,Maple Leaf School,communication with school,9,Messages from admin feel clear; big thumbs up for weekly updates.
+2024-05-14,S-00015,Sunrise Institute,academic quality,7,"Chem and physics labs are fun, but some homework is excessive."
+2024-06-03,S-00016,Lakeside College,professor teachings,5,"Some lectures great, others are hard to follow, need better organization."
+2024-07-21,S-00017,Pine Valley School,sports facilities,9,"Athletic facilities are top-notch, trainers are very supportive."
+2024-08-11,S-00018,Cedar Grove School,extracurricular activities,8,"Clubs are diverse, though travel clubs could be more accessible."
+2024-09-02,S-00019,Silver Oak School,personal motivation,6,"I could use more reminders to stay on track, sometimes I drift."
+2025-02-09,S-00020,Blue Horizon School,communication with school,8,"Overall good, but the app sometimes shows outdated announcements."
+2023-03-14,S-10001,Greenwood High School,academic quality,8,"The material covered felt solid and the exams were fair. It helped me build a real foundation, though some topics could use more real‑world examples."
+2023-04-22,S-10002,Riverside Academy,professor teachings,9,"Professors explain stuff clearly, but a few lectures went a bit fast. I still learned a lot and liked the practical demos."
+2024-01-11,S-10003,Hillcrest School,sports facilities,6,"Facilities are decent, gym is clean, but the courts feel dated and could use shade for hot days."
+2024-02-18,S-10004,Maple Leaf School,extracurricular activities,7,"There are cool clubs, but they sometimes clash with class times. I joined debate and robotics though, and it's fun."
+2024-03-02,S-10005,Sunrise Institute,personal motivation,8,"The teachers push you to do more, which helps me stay on track. Still, some days I felt a bit overwhelmed."
+2024-05-09,S-10006,Lakeside College,school climate,9,"Overall vibe is positive, peers are helpful, and staff are approachable. A few noise issues in common areas though."
+2024-06-21,S-10007,Pine Valley School,communication with school,5,Info from admin about events is patchy. I missed reminders once or twice.
+2023-09-05,S-10008,Cedar Grove School,academic quality,7,"Curriculum seems solid, but some topics felt repetitive. Could use more project work."
+2023-10-12,S-10009,Silver Oak School,professor teachings,8,Lectures are engaging when the professor isn’t stuck on slides. More office hours would help.
+2023-11-07,S-10010,Blue Horizon School,sports facilities,4,Fields get muddy after rain and the lights are dim. Could be better for evening practice.
+2024-01-29,S-10011,Greenwood High School,extracurricular activities,6,Clubs exist but the selection is kinda limited for newer interests. I enjoy music club though.
+2024-02-14,S-10012,Riverside Academy,personal motivation,9,I feel encouraged to set goals and chase them. Some days are rough but the support helps.
+2024-04-03,S-10013,Hillcrest School,school climate,7,General atmosphere is friendly; a few conflicts among students popped up last term.
+2024-04-28,S-10014,Maple Leaf School,communication with school,6,Emails sometimes take a day to reply. Quick chat in person is better.
+2023-12-01,S-10015,Sunrise Institute,academic quality,5,The lectures are okay but the exams feel rushed and stressful.
+2023-12-19,S-10016,Lakeside College,professor teachings,7,Some professors are passionate and explain well; others seem detached and hard to reach.
+2024-03-25,S-10017,Pine Valley School,sports facilities,8,Fields are well kept and there are plenty of gear. Just wish more indoor space for bad weather days.
+2024-05-14,S-10018,Cedar Grove School,extracurricular activities,9,There’s a huge variety and I found a coding club that’s super active. Love it.
+2024-06-03,S-10019,Silver Oak School,communication with school,4,"Ugh, getting info is a chore. Messages disappear in the thread, frustrating."
+2023-08-22,S-10020,Blue Horizon School,academic quality,10,Top marks curriculum. Exams actually reflect what we studied and the feedback is detailed and fair.
+2023-03-15,S-10001,Greenwood High School,academic quality,8,"Classes are solid, but sometimes the pacing feels off and I end up falling behind."
+2023-04-22,S-10002,Riverside Academy,professor teachings,9,"Professors know the material and explain things clearly most days, though a couple lectures could be a bit more engaging."
+2023-05-08,S-10003,Hillcrest School,sports facilities,7,"The gym is decent, but the weight room gets crowded after classes and some equipment is worn."
+2023-06-11,S-10004,Maple Leaf School,extracurricular activities,6,"Not many clubs match my interests, and some events feel a bit disorganized."
+2023-07-02,S-10005,Sunrise Institute,personal motivation,8,"Motivation boosts when teachers share real-life stories, but I wish there were more goal-setting sessions."
+2023-08-19,S-10006,Lakeside College,school climate,7,"Overall vibe is friendly, but there are moments of stress during exams that could be handled better."
+2023-09-07,S-10007,Pine Valley School,communication with school,9,Email replies are quick most times; a few departments missing updates can be annoying.
+2023-10-14,S-10008,Cedar Grove School,academic quality,5,Some courses feel outdated; would love more modern examples in lectures.
+2023-11-03,S-10009,Silver Oak School,professor teachings,10,"Professors are fantastic, patient, and push us to think critically every class."
+2024-01-21,S-10010,Blue Horizon School,sports facilities,6,Facilities are decent but the gym time is messy and booking system could be simpler.
+2024-02-09,S-10011,Greenwood High School,extracurricular activities,7,"There are clubs, but I wish there were more leadership opportunities and inter-school events."
+2024-03-18,S-10012,Riverside Academy,personal motivation,7,"Some days I feel motivated, other days it’s hard to stay on track without reminders."
+2024-04-29,S-10013,Hillcrest School,school climate,8,"The campus atmosphere is generally positive, with supportive peers and teachers."
+2024-05-07,S-10014,Maple Leaf School,communication with school,6,Messaging is sometimes slow; important updates get buried in threads.
+2024-06-12,S-10015,Sunrise Institute,academic quality,9,Coursework is challenging but fair; I’m learning a lot and feel prepared for exams.
+2024-07-20,S-10016,Lakeside College,professor teachings,8,"Teachers explain tough topics well, though some slides could be more concise."
+2024-08-26,S-10017,Pine Valley School,sports facilities,5,Field needs resurfacing and the track gets muddy after rain.
+2024-09-15,S-10018,Cedar Grove School,extracurricular activities,8,"There are cool clubs, the robotics team is awesome, would love more creative outlets."
+2024-10-09,S-10019,Silver Oak School,personal motivation,6,"Some mornings I struggle to start, but peers help a lot in group work."
+2025-02-02,S-10020,Blue Horizon School,communication with school,7,"Staff are approachable, yet getting a straight answer can take a few emails."
+2023-03-15,S-10458,Greenwood High School,academic quality,8,"The material was solid, but the pacing in some topics left me chasing quick summaries rather than deep understanding."
+2023-04-22,S-11203,Riverside Academy,professor teachings,9,"Prof was clear most days, but a couple lectures felt rushed and I wished for more real-world examples."
+2023-05-10,S-21019,Hillcrest School,sports facilities,6,"Facilities are okay but gym equipment is often busy and the courts need better cleaning, it slows down practice."
+2023-06-02,S-30122,Maple Leaf School,extracurricular activities,7,"Club options are decent, but there isn’t much formal guidance on how to join or lead activities."
+2023-07-18,S-40137,Sunrise Institute,personal motivation,8,"Teachers push us to do more, yet I sometimes feel overwhelmed with all the deadlines."
+2024-01-12,S-50865,Lakeside College,school climate,7,"Overall vibe is positive, but there’s selective communication that makes some students feel out of the loop."
+2024-02-28,S-61278,Pine Valley School,communication with school,9,Emails and announcements reach me on time; admin replies are helpful when I actually reach out.
+2024-03-09,S-72190,Cedar Grove School,academic quality,5,Some topics felt repetitive and the exams seemed to focus on memorization not understanding.
+2024-04-25,S-81234,Silver Oak School,professor teachings,10,"Lectures are engaging, instructors explain concepts with energy and patience."
+2024-05-14,S-91345,Blue Horizon School,sports facilities,4,"The track is bumpy, weights room is cramped, and showers always breaking down."
+2024-06-20,S-10256,Greenwood High School,extracurricular activities,6,Clubs are fine but I wish there were more leadership roles available for newbies.
+2024-07-11,S-20265,Riverside Academy,personal motivation,7,Motivation is good when mentors show up; otherwise it’s easy to drift.
+2024-08-03,S-30577,Hillcrest School,school climate,8,"Peer support is strong, but there’s gossip that hurts some students’ sense of safety."
+2024-09-19,S-40788,Maple Leaf School,communication with school,6,Messaging is scattered; important updates sometimes get buried in newsletters.
+2024-10-25,S-50999,Sunrise Institute,academic quality,7,"Course outlines exist, but I wish assessment criteria were explained earlier."
+2025-01-08,S-62340,Lakeside College,professor teachings,8,"Lectures are mostly good, but a few teachers rely too much on slides and not on discussion."
+2025-02-17,S-73421,Pine Valley School,sports facilities,9,Facilities are well-maintained and the gym has a friendly vibe most days.
+2025-03-29,S-84512,Cedar Grove School,extracurricular activities,5,Not enough funding for some clubs; opportunities feel limited for newer students.
+2025-04-16,S-95670,Silver Oak School,personal motivation,8,"I like the goal-setting workshops, they help me map small steps forward."
+2025-06-05,S-10299,Blue Horizon School,communication with school,7,"Teacher feedback is useful when given, but the channels to ask quick questions aren’t great."
+2023-02-14,S-10234,Greenwood High School,academic quality,9,"Overall strong coursework, but a few topics felt rushed in the midterm. The teachers explain well, still, need more practice problems."
+2023-03-05,S-02897,Riverside Academy,professor teachings,8,"Professors are good at breaking down hard ideas, but a couple classes felt disorganized and I missed the main point."
+2024-07-19,S-84560,Hillcrest School,sports facilities,7,"Facilities are okay, gym is clean and nice; sometimes equipment is missing or in use during afterschool. need more signups for lanes."
+2024-11-02,S-49731,Maple Leaf School,extracurricular activities,6,The after-school clubs are decent but the schedule clashes with tutoring. I wish there were more budget for new clubs.
+2023-09-12,S-71011,Sunrise Institute,personal motivation,8,"Encouraging teachers push me to do better, yet I sometimes doubt if I’m on the right track."
+2025-01-08,S-55432,Lakeside College,school climate,7,"Friendly vibe most days, but a few corridors feel tense when tests are announced."
+2024-04-28,S-22209,Pine Valley School,communication with school,8,"Emails reach the right people, but replies can be slow during exam weeks; a chat option would help."
+2023-12-15,S-66521,Cedar Grove School,academic quality,9,Lessons are well prepared and the projects are engaging; a bit more feedback on drafts would be perfect.
+2023-08-07,S-91374,Silver Oak School,professor teachings,5,"Professors vary a lot; some are inspiring, others just read slides and hurry out."
+2024-02-20,S-13788,Blue Horizon School,sports facilities,8,"Sports areas are modern and clean, but the basketball courts sometimes get crowded after lunch."
+2023-05-03,S-34212,Greenwood High School,extracurricular activities,7,"Clubs are pretty good, would love more options for creative writing and robotics."
+2024-09-10,S-78445,Riverside Academy,personal motivation,6,"I’m mostly self-motivated, the school gives a nudge now and then, nothing dramatic."
+2023-10-22,S-00981,Hillcrest School,school climate,9,"The school feels inclusive and safe; teachers listen when issues come up, which matters a lot."
+2025-03-11,S-25001,Maple Leaf School,communication with school,7,"Messages get routed, but sometimes important notices are buried in spam or ignored."
+2024-06-18,S-11876,Sunrise Institute,academic quality,6,Content is okay but some topics are covered too fast; give more time to digest.
+2023-01-29,S-50271,Lakeside College,professor teachings,9,"Lecturers are engaging, explain concepts with real world examples, really helpful."
+2024-08-04,S-39246,Pine Valley School,sports facilities,6,Gym is decent; the weight room could use better maintenance and scheduling.
+2023-11-14,S-70640,Cedar Grove School,extracurricular activities,8,There’s a good mix of activities; I enjoy the debate club and garden project.
+2025-02-28,S-21890,Silver Oak School,communication with school,8,"Staff are approachable; sometimes getting a straight answer takes a couple days, though."
+2023-03-12,S-10458,Greenwood High School,academic quality,8,"Overall the coursework is solid, but some topics move too quickly for new students."
+2023-04-07,S-27411,Riverside Academy,professor teachings,9,"Professors explain concepts clearly most days, though a couple lectures felt rushed and a bit dry."
+2023-06-21,S-39102,Hillcrest School,sports facilities,7,"Facilities are decent, but the gym equipment is sometimes in need of maintenance, not a big deal but noticeable."
+2023-09-02,S-50765,Maple Leaf School,extracurricular activities,8,"There are lots of clubs to choose from, yet late meeting times clash with part-time jobs."
+2023-11-14,S-61239,Sunrise Institute,personal motivation,6,"I feel a bit lost on goal setting, the school could do more to spark drive."
+2024-02-19,S-72108,Lakeside College,school climate,7,"The atmosphere is generally friendly, but a few staff members seem a bit dismissive at times."
+2024-04-03,S-83942,Pine Valley School,communication with school,5,"Messages from admin arrive late and sometimes with conflicting info, kinda frustrating."
+2024-05-29,S-94531,Cedar Grove School,academic quality,9,"Course materials are top-notch, assignments are fair, and feedback is actionable."
+2024-07-17,S-10127,Silver Oak School,professor teachings,8,"Lectures are engaging most of the time, but I wish there were more real-world examples in class."
+2024-09-08,S-11276,Blue Horizon School,sports facilities,6,"Field access is decent, but the track needs resurfacing and the weights room could be cleaner."
+2024-10-21,S-21874,Greenwood High School,extracurricular activities,7,"I joined two clubs already, but the sign-up process was a bit clunky and slow."
+2024-12-03,S-32658,Riverside Academy,personal motivation,7,"The school tries to motivate us, yet I still struggle to see a clear path for my interests."
+2025-01-15,S-43721,Hillcrest School,school climate,8,"Overall vibe is good, supportive peers, but some admins seem overworked during peak times."
+2025-03-02,S-54892,Maple Leaf School,communication with school,6,"Emails sometimes vanish, and I have to resend to get a response, it's time-consuming."
+2025-04-18,S-65973,Sunrise Institute,academic quality,8,"The core classes challenge me in a good way, though some advanced topics feel a bit out of reach."
+2025-05-10,S-78046,Lakeside College,professor teachings,9,"Instructors are knowledgeable and approachable, office hours are very helpful for tougher subjects."
+2025-06-01,S-80321,Pine Valley School,sports facilities,7,"Gym power outlets keep tripping during workouts, minor annoyance but not a deal-breaker."
+2023-12-18,S-91234,Cedar Grove School,extracurricular activities,5,Clubs options exist but I wish there were more beginner-friendly activities.
+2024-08-09,S-12568,Silver Oak School,personal motivation,6,"Motivation tips help here and there, but I could use more structured guidance."
+2023-03-12,S-10485,Greenwood High School,academic quality,8,Course content is solid but the pacing feels off at times.
+2023-04-05,S-23901,Riverside Academy,professor teachings,9,"Professor explains concepts clearly, though a few classes could use more real-world examples."
+2023-07-21,S-50122,Hillcrest School,sports facilities,7,"Facilities are decent, but the gym gets crowded after lunch and some equipment is worn."
+2024-01-11,S-76843,Maple Leaf School,extracurricular activities,6,"There are clubs, but the schedule clashes with study time, so participation is tough."
+2024-02-19,S-33007,Sunrise Institute,personal motivation,8,"Instructor encouragement helps me push through, though I wish more personalized feedback."
+2024-03-28,S-22094,Lakeside College,school climate,7,"Overall vibe is positive, yet some corridors feel chaotic during peak hours."
+2024-05-03,S-51740,Pine Valley School,communication with school,8," emails and notices are timely, but the portal sometimes glitches and hides updates."
+2024-06-15,S-61239,Cedar Grove School,academic quality,9,"The curriculum is challenging in a good way, teachers push critical thinking."
+2024-09-09,S-14876,Silver Oak School,professor teachings,7,"Some teachers are inspiring, others seem rushed and a bit detached."
+2025-01-22,S-90912,Blue Horizon School,sports facilities,8," Outdoor fields are great, indoor courts could use more maintenance during weekends."
+2025-02-14,S-30458,Greenwood High School,extracurricular activities,9,There’s a club for almost everything; I joined robotics and love the teamwork.
+2023-11-06,S-48720,Riverside Academy,personal motivation,6," motivation varies day to day, some days I feel drifted without a clear goal."
+2024-04-02,S-13249,Hillcrest School,school climate,8," The students look out for each other, more inclusive events would be nice."
+2024-08-19,S-45561,Maple Leaf School,communication with school,7, messages come through fine but sometimes important replies get buried in threads.
+2025-03-01,S-77832,Sunrise Institute,academic quality,7," coursework is okay, but the testing format feels a bit inconsistent."
+2023-12-12,S-66314,Lakeside College,professor teachings,8," I like how professors bring real case studies, makes lessons paint the picture."
+2023-10-28,S-20675,Pine Valley School,sports facilities,6," gym is decent, but the weight room isn’t ventilated well."
+2024-09-02,S-99123,Cedar Grove School,extracurricular activities,7, clubs are varied; I wish more leadership roles were available to beginners.
+2024-11-15,S-27139,Silver Oak School,personal motivation,9, I feel motivated by mentors who set clear milestones and celebrate progress.
+2025-04-08,S-40351,Blue Horizon School,communication with school,9," notices and updates reach me fast, keep up the good work, please maintain this."
+2023-03-15,S-10485,Greenwood High School,academic quality,8,"The curriculum challenges me in a good way, but some topics move too quickly for self-paced review."
+2023-04-22,S-20491,Riverside Academy,professor teachings,9,Mr. Chen explains concepts with real-world examples and I finally get why calc works.
+2023-05-08,S-30812,Hillcrest School,sports facilities,7,"Facilities look nice, but the courts need more maintenance and better scheduling."
+2023-06-30,S-41277,Maple Leaf School,extracurricular activities,6,"There are clubs, yet it’s hard to find people to join, maybe advertise more."
+2023-11-12,S-51261,Sunrise Institute,personal motivation,8,Encouragement from counselors helps me stay focused and set small goals.
+2024-01-19,S-61342,Lakeside College,school climate,7,"Overall it’s welcoming, but there’s occasional tension between grade levels."
+2024-02-25,S-72450,Pine Valley School,communication with school,9,Emails are timely and the app updates keep me in the loop with announcements.
+2024-04-03,S-83911,Cedar Grove School,academic quality,5,"Lectures are ok, but the homework load is a bit overwhelming sometimes."
+2024-05-20,S-95072,Silver Oak School,professor teachings,10,Professor Rivera makes every topic feel interesting and accessible.
+2024-07-18,S-10133,Blue Horizon School,sports facilities,8,"Gym equipment is modern and the gym is clean, though the track could be longer."
+2024-08-12,S-11248,Greenwood High School,extracurricular activities,7,"I joined a robotics club, and I wish there were more beginner-friendly workshops."
+2024-09-05,S-22356,Riverside Academy,personal motivation,6,"Some days motivation is hard, but the peers push me to keep going."
+2024-10-21,S-33472,Hillcrest School,school climate,6,"There’s respect between students and staff, yet a few loud rooms disrupt focus."
+2024-11-30,S-44519,Maple Leaf School,communication with school,8,Drop-off reminders and meeting invites make planning easier for parents.
+2025-01-14,S-55687,Sunrise Institute,academic quality,7,"Assessments are fair, though some topics deserve more practice problems."
+2025-02-28,S-66723,Lakeside College,professor teachings,9,The professor’s explanations click after a few examples; I finally see the pattern.
+2025-03-07,S-77819,Pine Valley School,sports facilities,9,"The new gym is awesome, but the pool’s schedule is tough with early mornings."
+2025-04-16,S-88946,Cedar Grove School,extracurricular activities,5,Clubs exist but not very active; need more leadership roles.
+2025-05-23,S-99031,Silver Oak School,personal motivation,8,"Peers push me, plus the mentor sessions help set me on track."
+2023-02-14,S-00001,Greenwood High School,academic quality,8,"The coursework feels solid and the pacing is good, though a few modules could use more real-world examples."
+2023-03-22,S-00002,Riverside Academy,professor teachings,9,"Professors explain stuff clearly most days, but a couple lectures were dry as toast and skipped key details."
+2023-04-10,S-00003,Hillcrest School,sports facilities,7,"Facilities are decent, gym has nice gear, but the courts get crowded after lunch."
+2023-05-18,S-00004,Maple Leaf School,extracurricular activities,6,"There are clubs worth joining, but I wish there were more late-evening options for working students."
+2023-06-25,S-00005,Sunrise Institute,personal motivation,7,"Motivation boosts vary—some days you feel driven, other days you’re just cruising."
+2023-07-11,S-00006,Lakeside College,school climate,8,"The vibe is generally positive, though a few hallways feel tense during exam week."
+2023-08-02,S-00007,Pine Valley School,communication with school,9,"Emails and notices come through reliably; when issues arise, responses are timely and helpful."
+2023-09-19,S-00008,Cedar Grove School,academic quality,8,"The curriculum is robust and aligns with college expectations, but some topics could use more hands-on labs."
+2023-11-05,S-00009,Silver Oak School,professor teachings,6,"Some teachers are inspiring, others read slides and rush through answers."
+2023-12-12,S-00010,Blue Horizon School,sports facilities,8,Facilities are modern and well maintained; would be great to have more open fields on weekends.
+2024-01-29,S-00011,Greenwood High School,extracurricular activities,7,"Club options are good, but the sign-up process can be confusing and slow."
+2024-02-16,S-00012,Riverside Academy,personal motivation,8,"I feel encouraged here, yet motivation can dip when deadlines stack up."
+2024-03-23,S-00013,Hillcrest School,school climate,7,Overall supportive environment; a few groups feel left out during events.
+2024-04-15,S-00014,Maple Leaf School,communication with school,6,Messages sometimes get lost in threads; clarity could improve for important changes.
+2024-05-07,S-00015,Sunrise Institute,academic quality,9,Really strong course content and helpful feedback from instructors most of the time.
+2024-06-18,S-00016,Lakeside College,professor teachings,5,"Some professors are engaging, others seem disconnected from the class topics."
+2024-07-21,S-00017,Pine Valley School,sports facilities,7,"Track and gym are solid, but equipment ages quickly in peak season."
+2024-08-30,S-00018,Cedar Grove School,extracurricular activities,8,A nice mix of activities; still hoping for more student-led initiatives.
+2024-09-14,S-00019,Silver Oak School,personal motivation,7,Getting through the term is easier when you have small wins to celebrate.
+2024-10-28,S-00020,Blue Horizon School,communication with school,8,"Clear channels most days, but a few critical alerts slipped through the cracks recently."
+2023-03-14,S-10458,Greenwood High School,academic quality,8,"Overall solid courses, but a few topics felt rushed and left me wanting more depth."
+2023-04-02,S-20511,Riverside Academy,professor teachings,9,Professor explained concepts clearly most days; some have a dry delivery that makes it hard to stay focused.
+2023-05-20,S-07824,Hillcrest School,sports facilities,6,"Facilities are decent, but the gym equipment is often busy and the courts need updating."
+2024-01-11,S-93012,Maple Leaf School,extracurricular activities,7,"There are clubs I like, but the selection isn't huge and not every interest is covered."
+2024-02-15,S-51230,Sunrise Institute,personal motivation,8,"Counselors and mentors push me to do better, though sometimes the goals feel generic."
+2024-03-29,S-21103,Lakeside College,school climate,9,"I feel supported here, staff are approachable and respectful, vibes are positive."
+2024-04-12,S-41004,Pine Valley School,communication with school,7,Messages from admin reach me but response times can be slow and confusing.
+2024-05-21,S-76612,Cedar Grove School,academic quality,5,Some classes are tough but the curriculum missing practical examples to connect theory.
+2024-06-03,S-88301,Silver Oak School,professor teachings,8,"Lecturers know their stuff, a few use slides that glare too bright, hurting my eyes."
+2025-01-08,S-99123,Blue Horizon School,sports facilities,9,"Field work and gym upkeep are top notch, love the outdoor spaces, feels safe to play."
+2025-02-19,S-01498,Greenwood High School,extracurricular activities,6,Clubs exist but scheduling clashes with classes; more after-school options would help.
+2025-03-04,S-33451,Riverside Academy,personal motivation,7,Teachers motivate me but motivation sometimes fades during long projects.
+2025-04-18,S-26780,Hillcrest School,school climate,8,"Friendly environment, peers encourage each other, occasional rumor mill wrecks mood."
+2025-05-07,S-54912,Maple Leaf School,communication with school,6,"Emails get ignored sometimes, phone line is busy, need better notification system."
+2025-06-22,S-70215,Sunrise Institute,academic quality,7,"Some courses are great, others could use a better real-world connection to careers."
+2023-11-09,S-87322,Lakeside College,professor teachings,4,"Instructors often rush through material and leave me confused, needs more clarity."
+2023-12-01,S-64120,Pine Valley School,extracurricular activities,8,"Plenty of clubs, but the funding for new ideas is limited."
+2023-12-18,S-11876,Cedar Grove School,personal motivation,6,I try hard but sometimes the school's support feels generic and not tailored to me.
+2024-02-28,S-90456,Silver Oak School,school climate,7,"Mostly good, but a few outlets for student voices are missing."
+2024-04-09,S-34678,Blue Horizon School,communication with school,9,"Fantastic updates and quick responses, really helps plan my week."
+2023-02-14,S-00001,Greenwood High School,academic quality,8,"Overall solid curriculum, but sometimes lectures feel rushed and not enough real-world examples."
+2023-03-03,S-00002,Riverside Academy,professor teachings,9,"Professors know their stuff, explains tricky topics clearly most days, a few still rely on slides."
+2023-04-22,S-00003,Hillcrest School,sports facilities,6,Facilities are decent but the gym equipment is a bit dated and the courts can be busy.
+2023-05-19,S-00004,Maple Leaf School,extracurricular activities,7,"There are clubs I like, though some new ones still finding footing and schedules clash with classes."
+2023-06-11,S-00005,Sunrise Institute,personal motivation,8,Motivation from peers and teachers helps; a couple mentors don’t connect with all students.
+2023-07-07,S-00006,Lakeside College,school climate,7,"The vibe is generally positive, but mornings can feel a bit tense before first period."
+2023-08-02,S-00007,Pine Valley School,communication with school,8,"Messages reach me, though important notices sometimes arrive late, especially during exam weeks."
+2023-09-09,S-00008,Cedar Grove School,academic quality,9,"Rigorous courses and helpful feedback keep me on track, though some topics move fast."
+2023-10-15,S-00009,Silver Oak School,professor teachings,6,Decent explanations but a couple instructors speak softly and lose the room's attention.
+2023-11-01,S-00010,Blue Horizon School,sports facilities,5,Sports area needs better maintenance; fields get muddy after rain and nets are frayed.
+2024-01-17,S-00011,Greenwood High School,extracurricular activities,8,"There are awesome clubs here, but some days the signup windows are too short."
+2024-02-20,S-00012,Riverside Academy,personal motivation,7,"Inspiring talks from seniors boost me, but I sometimes drift during long study halls."
+2024-03-25,S-00013,Hillcrest School,school climate,6,The school is friendly overall; a few incidents have left some students uneasy.
+2024-04-09,S-00014,Maple Leaf School,communication with school,9,Clear updates and responsive admin team; they actually listen when you raise concerns.
+2024-05-30,S-00015,Sunrise Institute,academic quality,7,"Courses are solid, but some grading seems inconsistent across sections."
+2024-06-14,S-00016,Lakeside College,professor teachings,8,"Teachers use real-world examples and encourage questions, a few could be more patient."
+2024-07-07,S-00017,Pine Valley School,sports facilities,9,Field quality is excellent; gym gear is modern and the training programs are well organized.
+2024-08-19,S-00018,Cedar Grove School,extracurricular activities,6,"Some clubs are great, others barely meet and the leadership can be flaky."
+2024-09-05,S-00019,Silver Oak School,personal motivation,8,"Motivation from mentors really helps me stay focused, though I wish there were more study groups."
+2024-10-11,S-00020,Blue Horizon School,communication with school,7,"Not bad, but some important alerts get lost in the noise of group messages."
+2023-03-12,S-01234,Greenwood High School,academic quality,8,"Overall the coursework is solid, but some topics move fast."
+2023-04-07,S-04567,Riverside Academy,professor teachings,9,"Teacher explained stuff clearly most days, but a few lectures felt rushed."
+2023-05-21,S-08912,Hillcrest School,sports facilities,6,"The gym is decent, but equipment is often scarce after practice."
+2023-06-02,S-10345,Maple Leaf School,extracurricular activities,7,"There are clubs I like, but a couple are hard to join due to timing."
+2023-07-15,S-14678,Sunrise Institute,personal motivation,8,"Motivation classes helped me lately, still wish for more one-on-one coaching."
+2023-08-28,S-17890,Lakeside College,school climate,7,"The vibe is generally positive, though some days feel a bit tense."
+2023-09-11,S-20345,Pine Valley School,communication with school,5,"Emails sometimes take long to get answered, frustrating at times."
+2023-10-04,S-22456,Cedar Grove School,academic quality,9,"Hmm, the curriculum is rigorous and challenging, which I like."
+2023-11-19,S-24567,Silver Oak School,professor teachings,6,Professors are nice but occasionally hard to follow without notes.
+2023-12-22,S-26789,Blue Horizon School,sports facilities,8,"Facilities are top notch, though maintenance logs could be shared more."
+2024-01-05,S-28901,Greenwood High School,extracurricular activities,7,"There are cool clubs, but some require too much time commitment."
+2024-02-14,S-30123,Riverside Academy,personal motivation,6,"I like the focus on growth, but I need more real-life examples."
+2024-03-09,S-32345,Hillcrest School,school climate,8,"The environment feels supportive, teachers seem invested."
+2024-04-22,S-34567,Maple Leaf School,communication with school,7,"Feedback channels work mostly, just wish responses were quicker."
+2024-05-17,S-36789,Sunrise Institute,academic quality,8,"Course materials are solid, but some topics need clearer examples."
+2024-06-10,S-38901,Lakeside College,professor teachings,9,Lectures are engaging and the professor explains complex ideas well.
+2024-07-03,S-40123,Pine Valley School,sports facilities,5,Facilities are decent but the gym is sometimes crowded.
+2024-08-16,S-42345,Cedar Grove School,extracurricular activities,6,Clubs are varied but some days clash with classes.
+2024-09-05,S-44567,Silver Oak School,personal motivation,7,"I appreciate the focus on self-improvement, though I still struggle with consistency."
+2024-10-21,S-46789,Blue Horizon School,communication with school,6,"Sometimes messages get lost in the system, leads to confusion."
+2024-11-12,S-48901,Greenwood High School,academic quality,7,"Overall solid, but the grading can feel a bit inconsistent across teachers."
+2025-02-02,S-50123,Riverside Academy,professor teachings,8,"Good explanation and passion, though some topics require more practice problems."
+2023-03-12,S-10423,Greenwood High School,academic quality,8,"The coursework was solid, but the pacing felt off for some topics."
+2023-04-02,S-48321,Riverside Academy,professor teachings,9,"Professor explained things clearly most days, but a few lectures lacked real-world examples."
+2023-05-18,S-91011,Hillcrest School,sports facilities,6,"Facilities are decent, but the gym equipment needs updating and the courts are sometimes crowded."
+2023-07-22,S-55231,Maple Leaf School,extracurricular activities,7,"There are clubs, yet schedules clash with exams, making it hard to join consistently."
+2023-08-05,S-70241,Sunrise Institute,personal motivation,5,"I felt kinda lost at times, the support portal didn’t help me stay on track."
+2023-09-15,S-14932,Lakeside College,school climate,7,"The vibe is mostly positive, though some teachers seem stressed during peak weeks."
+2023-10-28,S-23876,Pine Valley School,communication with school,8,"Messages get to the office, but responses are slow and sometimes lost in the shuffle."
+2023-11-11,S-38564,Cedar Grove School,academic quality,9,"Coursework feels rigorous and meaningful, though a few electives could be redesigned."
+2023-12-04,S-92123,Silver Oak School,professor teachings,6,"Some lectures were dry; the professor used slides all the time, which got tedious."
+2024-01-19,S-66712,Blue Horizon School,sports facilities,7,"Field access is convenient, but the indoor track smells funny when it rains."
+2024-02-28,S-43126,Greenwood High School,extracurricular activities,8,Clubs are cool and the people are friendly; wish there were more beginner-friendly options.
+2024-03-17,S-51238,Riverside Academy,personal motivation,4,"Lacked motivation support during winter projects; some pep talks helped, though."
+2024-04-09,S-73456,Hillcrest School,school climate,6,"The environment is generally good, but noise levels in the corridor are high."
+2024-05-23,S-21099,Maple Leaf School,communication with school,9,"Excellent at updating students about changes, quick responses, very helpful staff."
+2024-06-10,S-80983,Sunrise Institute,academic quality,7,Course content is solid; some assignments feel repetitive though.
+2024-07-14,S-31670,Lakeside College,professor teachings,8,Lecturers are engaging most of the time; a couple could benefit from more office hours.
+2024-08-25,S-57840,Pine Valley School,sports facilities,5,Gym equipment feels old; the gym is okay but not inspiring.
+2024-09-02,S-19775,Cedar Grove School,extracurricular activities,6,"More diverse clubs would be nice, some groups have long waitlists."
+2024-10-19,S-84561,Silver Oak School,personal motivation,7,"I got some momentum after talking to a counselor, but it took time."
+2024-11-07,S-62314,Blue Horizon School,communication with school,6,"Notes about deadlines sometimes miss me; reminders would help a lot, please."
+2025-01-30,S-37722,Greenwood High School,academic quality,10,"Top-tier content, challenging but fair, final projects tied everything together beautifully."
+2023-03-12,S-10428,Greenwood High School,academic quality,7,"Overall solid. Some courses felt outdated, but the core content was solid and the instructors seemed competent."
+2023-05-22,S-40211,Riverside Academy,professor teachings,8,"The teachers know their stuff, but a few classes moved too fast and left me behind."
+2024-01-15,S-90321,Hillcrest School,sports facilities,6,"Facilities are decent, but the gym gets crowded during peak hours and equipment is sometimes in need of repair."
+2024-03-02,S-21109,Maple Leaf School,extracurricular activities,9,"Love the range of clubs, especially robotics and debate. Keeps me motivated after class."
+2024-07-19,S-77041,Sunrise Institute,personal motivation,7,"Motivation comes from peers and mentors here, though I wish there were more structured goal-setting support."
+2023-11-03,S-55872,Lakeside College,school climate,5,"Some days the vibe is tense, others it’s friendly; it depends on the class and who’s around."
+2025-02-28,S-31655,Pine Valley School,communication with school,8,"Emails usually get answered, but sometimes messages disappear in the inbox and take a while to follow up."
+2023-04-09,S-68912,Cedar Grove School,academic quality,6,"Curriculum is okay, but some topics felt rushed and left me with questions."
+2024-09-10,S-13477,Silver Oak School,professor teachings,9,The professors explain complex ideas clearly and give helpful feedback on assignments.
+2023-08-21,S-21098,Blue Horizon School,sports facilities,4,"Gym is outdated, weights missing, not great for workouts after practice."
+2024-12-05,S-55220,Greenwood High School,extracurricular activities,7,"There are options I enjoy, but sometimes clubs clash with study time."
+2023-09-14,S-44321,Riverside Academy,personal motivation,6,"I feel motivated when mentors push us, but some days it’s hard to stay on track."
+2024-04-27,S-22277,Hillcrest School,school climate,8,"Overall the environment is welcoming, with supportive peers and staff."
+2023-12-31,S-99764,Maple Leaf School,communication with school,9,"Messages get through quickly, and the admin team is attentive when I have a concern."
+2025-03-11,S-33334,Sunrise Institute,academic quality,5,"Some classes miss practical examples, making it hard to see real-world use."
+2023-06-07,S-77881,Lakeside College,professor teachings,7,"Good explanations most of the time, but a few lectures felt dry and long."
+2024-02-20,S-45450,Pine Valley School,sports facilities,8,"Facilities are improving, the new turf is nice, minor maintenance remains."
+2024-08-18,S-29641,Cedar Grove School,extracurricular activities,6,"Club options are okay, but I wish there was more leadership training offered."
+2024-05-05,S-11890,Silver Oak School,personal motivation,8,"People around me inspire me to do better, still I sometimes doubt my progress."
+2023-03-15,S-10234,Greenwood High School,academic quality,9,The curriculum is solid and exams fairly reflect learning. Some topics could use more real-world applications.
+2023-04-02,S-20487,Riverside Academy,professor teachings,8,"Professors explain clearly most of the time, though a few lectures felt rushed and skipped on key examples."
+2023-05-20,S-30876,Hillcrest School,sports facilities,7,Facilities are decent but gym equipment is sometimes in short supply during peak hours.
+2023-06-11,S-41222,Maple Leaf School,extracurricular activities,8,"There are lots of clubs, but some evenings are crowded; better scheduling would help."
+2023-07-03,S-52109,Sunrise Institute,personal motivation,6,"Motivation meh lately, but counselors are supportive when you talk to them."
+2023-08-19,S-63479,Lakeside College,school climate,7,"The vibe is generally positive, though some corridors feel a bit chaotic during breaks."
+2023-09-10,S-74561,Pine Valley School,communication with school,8,"Emails get answered, but sometimes replies take too long and questions get lost."
+2023-10-27,S-85230,Cedar Grove School,academic quality,9,Quality of teaching is high; I wish there were more practice sets for exams.
+2023-11-14,S-96312,Silver Oak School,professor teachings,7,"Some professors are engaging, others lecture like monologue and lose attention."
+2023-12-05,S-17458,Blue Horizon School,sports facilities,6,Gym is okay but the track is slippery when wet and towels are scarce.
+2024-01-22,S-27541,Greenwood High School,extracurricular activities,9,Love the club options; administration supports student-led initiatives.
+2024-02-16,S-38672,Riverside Academy,personal motivation,7,"Feeling a bit burnt out, though teachers push you to push through.”"
+2024-03-09,S-49813,Hillcrest School,school climate,8,"Friends and staff are friendly, but the cafeteria noise can be overwhelming."
+2024-04-28,S-61124,Maple Leaf School,communication with school,9,Messages reach the right people quickly; really helps when coordinating projects.
+2024-05-17,S-72255,Sunrise Institute,academic quality,8,Overall strong academics; a few courses felt outdated though the new app helps.
+2024-06-03,S-83369,Lakeside College,professor teachings,9,"Engaging lectures, practical demos, and timely feedback—awesome."
+2024-07-21,S-94470,Pine Valley School,sports facilities,8,Grounds and gym space are good; gym hours could be extended on weekends.
+2024-08-12,S-10534,Cedar Grove School,extracurricular activities,7,Clubs are diverse but some like robotics need more mentors.
+2024-09-07,S-21687,Silver Oak School,personal motivation,6,Motivation dips mid-semester; peer study groups help a bit.
+2024-10-29,S-32748,Blue Horizon School,communication with school,8,Front desk is friendly; email responses vary by staff member.
+2025-01-13,S-43829,Greenwood High School,academic quality,10,The courses challenge me in a good way; the assignments are fair and clear.
+2023-04-12,S-10421,Greenwood High School,academic quality,8,"The coursework is solid, but sometimes lectures feel rushed."
+2023-05-09,S-20487,Riverside Academy,professor teachings,9,"Prof is clear most days, but a bit slow when too many demos go on at once."
+2024-02-18,S-30876,Hillcrest School,sports facilities,7,"Facilities are okay, gym is decent but the track needs more maintenance."
+2023-11-03,S-41209,Maple Leaf School,extracurricular activities,6,"There are clubs, yet the vibe feels a lil disconnected from academics."
+2024-07-22,S-52109,Sunrise Institute,personal motivation,8,I feel more driven when teachers push us with real-world problems.
+2023-09-14,S-63074,Lakeside College,school climate,7,"The school climate is generally supportive, though some hallways are noisy."
+2025-01-11,S-74215,Pine Valley School,communication with school,9,"Emails are answered quickly and messages are clear, appreciated the weekly updates."
+2024-03-28,S-85342,Cedar Grove School,academic quality,5,"Chapters feel repetitive, need more real world examples."
+2023-08-02,S-96418,Silver Oak School,professor teachings,6,The professor explains well sometimes but student questions seem to stall the flow.
+2023-12-19,S-10741,Blue Horizon School,sports facilities,8,"Court surfaces are good, but gym equipment is a bit dated."
+2024-06-05,S-21097,Greenwood High School,extracurricular activities,7,"There are clubs I enjoy, but the schedule is clashing with study time."
+2023-10-28,S-31284,Riverside Academy,personal motivation,7,"Got inspired by a project, then momentum dropped after midterms."
+2025-03-16,S-41970,Hillcrest School,school climate,8,"Peers are supportive, staff seem approachable; still a few pockets of stress."
+2024-09-01,S-52631,Maple Leaf School,communication with school,6,"Messages from admin sometimes arrive late, confusing deadlines."
+2023-06-13,S-63782,Sunrise Institute,academic quality,9,"Curriculum is robust and teaches critical thinking, love it."
+2024-12-02,S-74832,Lakeside College,professor teachings,5,"Some lectures are meh, slides not updated in months."
+2023-04-29,S-85623,Pine Valley School,sports facilities,6,Facilities are ok but the gym is crowded during after-school.
+2024-02-22,S-96402,Cedar Grove School,extracurricular activities,8,"I joined robotics, teachers really support new ideas."
+2023-07-07,S-10845,Silver Oak School,personal motivation,7,"Motivation varies; some days I feel driven, others I need a nudge."
+2025-05-18,S-21987,Blue Horizon School,communication with school,10,Top marks for responsiveness; the admin actually listens and acts.
+2023-03-12,S-00421,Greenwood High School,academic quality,8,"classes are sometimes rushed, but the core content is solid. teacher explanations help me get the concepts."
+2023-04-07,S-10456,Riverside Academy,professor teachings,9,"professors explain with real examples, keeps me interested. occasionally busy schedule makes it hard to catch office hours."
+2023-06-22,S-20311,Hillcrest School,sports facilities,7,"the gym has good equipment, but the locker rooms could be cleaner."
+2023-09-14,S-30577,Maple Leaf School,extracurricular activities,6,"lots of clubs, yet times clash with homework. still glad for options."
+2024-01-09,S-45029,Sunrise Institute,personal motivation,8,"inspired by peers and mentors, helps me push through tough weeks."
+2024-02-18,S-51281,Lakeside College,school climate,7,"the vibe is generally positive, though a few teachers seem stressed."
+2024-04-30,S-59642,Pine Valley School,communication with school,5,"emails sometimes take days to reply, basic updates get missed."
+2024-05-12,S-70119,Cedar Grove School,academic quality,9,"rigorous coursework, great resources. exams are fair and well aligned to lessons."
+2024-08-21,S-81232,Silver Oak School,professor teachings,10,the instructors really know their stuff and push me to think. feedback helps me grow.
+2024-11-03,S-92150,Blue Horizon School,sports facilities,6,sports gear is decent but some fields get muddy after rain.
+2025-01-16,S-10366,Greenwood High School,extracurricular activities,7,"there's a club for almost everything, which is awesome, even if some meetups are crowded."
+2025-02-28,S-11477,Riverside Academy,personal motivation,6,i motivate myself but feedback from mentors would help a lot more.
+2025-03-19,S-12588,Hillcrest School,school climate,8,"friendly atmosphere most days, though cafeteria noise can be overwhelming."
+2025-04-07,S-13444,Maple Leaf School,communication with school,4,not getting clear info on deadlines; reminders would be nice.
+2025-04-26,S-14555,Sunrise Institute,academic quality,7,"the curriculum is solid, but some topics feel repetitive over the year."
+2025-05-30,S-15666,Lakeside College,professor teachings,9,"lectures are engaging, clear, and the pacing suits my learning style."
+2025-06-02,S-16777,Pine Valley School,sports facilities,5,"fields are okay, but maintenance could be better; some equipment is worn."
+2023-12-11,S-17888,Cedar Grove School,extracurricular activities,8,"a lot of variety, I found a coding club that fits my schedule nicely."
+2023-10-05,S-18999,Silver Oak School,personal motivation,7,"i feel supported by teachers, which keeps me on track with projects."
+2023-11-14,S-20010,Blue Horizon School,communication with school,6,"messages sometimes get lost in the system, but i appreciate the efforts when they reach me."
+2023-02-14,S-10001,Greenwood High School,academic quality,8,"The courses feel current and the material is clear, but exams sometimes miss practical context."
+2023-03-22,S-10002,Riverside Academy,professor teachings,9,"Professors explain stuff well most days, but a few lectures drag on and lose focus mid-way."
+2023-04-05,S-10003,Hillcrest School,sports facilities,6,"Facilities are decent, yet the gym is crowded after lunch and equipment lines up."
+2023-05-19,S-10004,Maple Leaf School,extracurricular activities,7,"There are options, but I wish more clubs aligned with my interests like robotics or debate."
+2023-06-11,S-10005,Sunrise Institute,personal motivation,5,"Some days I just don’t feel very pushed, the encouragement could be more visible."
+2023-07-01,S-10006,Lakeside College,school climate,7,"Overall vibe is good, but rumors and classroom stress spikes during finals make it tough."
+2023-08-14,S-10007,Pine Valley School,communication with school,8,"Info from admin comes in timely, but updates about events often arrive late."
+2023-09-25,S-10008,Cedar Grove School,academic quality,9,"The syllabus is solid, assignments are fair, and I feel supported by tutors."
+2023-10-07,S-10009,Silver Oak School,professor teachings,6,"Some professors are engaging, others seem to rush through slides without clarifying key ideas."
+2023-11-16,S-10010,Blue Horizon School,sports facilities,8,"Gym and track are pretty good, though the pool could use cleaner water and clearer lanes."
+2024-01-12,S-10011,Greenwood High School,extracurricular activities,8,"I joined a few clubs; leadership roles are available, but scheduling cliques clash with study time."
+2024-02-20,S-10012,Riverside Academy,personal motivation,7,"Motivation is there from teachers, yet I still wrestle with balancing deadlines and hobbies."
+2024-03-30,S-10013,Hillcrest School,school climate,6,The hallways feel cramped during passing periods; a few folks create unnecessary noise.
+2024-04-17,S-10014,Maple Leaf School,communication with school,9,"Emails from counselors are frequent and helpful, though sometimes response times gap."
+2024-05-09,S-10015,Sunrise Institute,academic quality,7,"Class materials are solid, but group projects can be uneven with effort."
+2024-06-28,S-10016,Lakeside College,professor teachings,8,Most lectures are clear; a couple professors could provide more real-world examples.
+2024-07-15,S-10017,Pine Valley School,sports facilities,5,Facilities are okay but maintenance is spotty; some equipment is out of order for too long.
+2024-08-23,S-10018,Cedar Grove School,extracurricular activities,8,"There are clubs I enjoy, yet funding and space are sometimes limited."
+2024-09-11,S-10019,Silver Oak School,personal motivation,6,I feel a bit adrift mid-semester; more goals would help me stay on track.
+2024-10-02,S-10020,Blue Horizon School,school climate,9,The environment is inclusive and supportive; teachers check in and listen to concerns.
+2023-03-15,S-12897,Greenwood High School,academic quality,9,"The courses feel solid and the assignments actually reflect real understanding, not busywork."
+2023-04-22,S-28461,Riverside Academy,professor teachings,8,"Professors usually know their stuff, but a few explanations go over my head the first time."
+2023-05-10,S-77123,Hillcrest School,sports facilities,7,"Facility access is decent, but the gym towels are always missing and that's annoying."
+2023-06-18,S-45562,Maple Leaf School,extracurricular activities,6,"There are clubs, but they clash with my class schedule, so I can't join many."
+2023-07-02,S-90211,Sunrise Institute,personal motivation,7,"Feeling motivated is up to me most days, not the school, but the resources help when I push myself."
+2023-08-29,S-34109,Lakeside College,school climate,8,"The vibe is usually friendly, though there are days with loud crowds during lunch."
+2023-09-14,S-60413,Pine Valley School,communication with school,9,"Emails get answered fairly quick, and counselors actually listen when I explain issues."
+2023-10-01,S-81723,Cedar Grove School,academic quality,5,Some topics feel underexplained and the grading seems inconsistent at times.
+2023-11-19,S-51327,Silver Oak School,professor teachings,4,Lectures are okay but the pace is too fast for me; I miss context.
+2023-12-07,S-19984,Blue Horizon School,sports facilities,10,"The gym and track are top notch, coaches push us to improve without being overbearing."
+2024-01-18,S-74019,Greenwood High School,extracurricular activities,7,"There’s a broad range of clubs, though finding time is the real problem."
+2024-02-25,S-68244,Riverside Academy,personal motivation,6,"Motivation is personal; the school offers spaces, but discipline is on me."
+2024-03-09,S-90431,Hillcrest School,school climate,7,"Overall a welcoming place, but the hallways can feel chaotic during changing periods."
+2024-04-17,S-22188,Maple Leaf School,communication with school,8,Feedback loops work for the most part; sometimes I wait too long for decisions.
+2024-05-03,S-17839,Sunrise Institute,academic quality,6,"The coursework is fine but some instructions are vague, leaving me unsure."
+2024-06-21,S-55912,Lakeside College,professor teachings,9,"Professors explain concepts clearly and invite discussion, which helps me learn."
+2024-07-14,S-31147,Pine Valley School,sports facilities,5,Facilities are okay but outdated equipment slows practice.
+2024-08-05,S-77776,Cedar Grove School,extracurricular activities,8,There are cool clubs available; I just wish there were more leadership roles.
+2024-09-11,S-29038,Silver Oak School,personal motivation,7,"I feel supported by teachers, which helps me push through days I want to quit."
+2024-10-29,S-65012,Blue Horizon School,communication with school,9,"Staff are respectful and keep me in the loop, which reduces my anxiety about grades."
+2024-11-16,S-82104,Greenwood High School,academic quality,4,Grades dropped this term; the material felt rushed and not well organized.
+2025-02-08,S-46351,Riverside Academy,professor teachings,10,"Lectures were engaging, the examples clicked, and the exams reflected what we learned."
+2023-03-12,S-00001,Greenwood High School,academic quality,8,"Overall the coursework is solid, but some topics felt rushed."
+2023-04-02,S-00002,Riverside Academy,professor teachings,9,Professors explain concepts clearly; a few slides could use more examples.
+2023-05-15,S-00003,Hillcrest School,sports facilities,6,"Facilities are decent but the gym equipment is a bit worn, need updates."
+2023-09-23,S-00004,Maple Leaf School,extracurricular activities,7,"There are clubs I like, but the scheduling clashes with classes sometimes."
+2023-11-30,S-00005,Sunrise Institute,personal motivation,8,"Inspires me to push further, though some days motivation dips after late labs."
+2024-02-18,S-00006,Lakeside College,school climate,7,The vibe is generally positive; a few corridors feel tense during exams.
+2024-04-07,S-00007,Pine Valley School,communication with school,6,Messages sometimes take long to reply; app notifications help but aren’t perfect.
+2024-06-21,S-00008,Cedar Grove School,academic quality,9,"Challenging material, but the grading is fair and feedback helps me improve."
+2024-08-14,S-00009,Silver Oak School,professor teachings,7,Teaching is good overall; some professors could incorporate more real-world cases.
+2024-10-01,S-00010,Blue Horizon School,sports facilities,5,Facilities are lacking for certain sports; the track is uneven in places.
+2023-12-11,S-00011,Greenwood High School,extracurricular activities,8,"There’s a club for almost everything, but transportation after meetings is an issue."
+2024-01-28,S-00012,Riverside Academy,personal motivation,6,Some days the goals feel distant; onboarding sessions helped though.
+2024-03-09,S-00013,Hillcrest School,school climate,8,"Peer support is strong, but a few staff members come off as distant."
+2024-05-22,S-00014,Maple Leaf School,communication with school,7,"Email replies are faster now, still waiting on a few policy updates."
+2024-07-16,S-00015,Sunrise Institute,academic quality,7,Courses are tough but fair; some readings feel overly dense.
+2024-09-03,S-00016,Lakeside College,professor teachings,8,"Lectures are engaging, room for more interactive labs though."
+2024-11-19,S-00017,Pine Valley School,sports facilities,6,Playing fields are okay but the gym is a bit outdated.
+2023-08-28,S-00018,Cedar Grove School,extracurricular activities,9,Loved the range of clubs; finally found a robotics group that fits me.
+2025-02-02,S-00019,Silver Oak School,personal motivation,9,"Motivation rocks when projects align with real interests, keeps me going."
+2025-04-10,S-00020,Blue Horizon School,communication with school,5,"Still waiting on official response to a major question, kinda frustrated."
+2023-03-15,S-10001,Greenwood High School,academic quality,9,The lectures were clear and the topics covered felt relevant.
+2023-04-22,S-10002,Riverside Academy,professor teachings,8,"Prof was good but sometimes missed details in class, still kept me engaged."
+2023-05-10,S-10003,Hillcrest School,sports facilities,7,"The gym has decent gear, but the schedule is chaotic and hard to book."
+2023-06-07,S-10004,Maple Leaf School,extracurricular activities,8,Lots of clubs but info signups are scattered; would help to centralize.
+2023-07-19,S-10005,Sunrise Institute,personal motivation,6,I felt lost after midterms; need clearer goals from mentors.
+2023-08-08,S-10006,Lakeside College,school climate,9,"The overall vibe is positive, people are supportive and respectful."
+2023-09-12,S-10007,Pine Valley School,communication with school,7,Emails sometimes take days to answer; quick replies would help.
+2023-10-03,S-10008,Cedar Grove School,academic quality,8,"Quality of assignments is solid, although feedback could be more actionable."
+2023-11-21,S-10009,Silver Oak School,professor teachings,9,Prof was passionate and made complex topics easier to grasp.
+2023-12-02,S-10010,Blue Horizon School,sports facilities,6,The track is nice but the indoor courts need more maintenance.
+2024-01-18,S-10011,Greenwood High School,extracurricular activities,7,"Clubs are fun, but the event calendar is not very intuitive."
+2024-02-27,S-10012,Riverside Academy,personal motivation,5,I don’t feel motivated lately; guidance sessions feel generic.
+2024-03-14,S-10013,Hillcrest School,school climate,8,"Peers are supportive, but some corridors still feel tense during peak times."
+2024-04-09,S-10014,Maple Leaf School,communication with school,7,"Friendly staff, yet some forms are redundant and slow to process."
+2024-05-22,S-10015,Sunrise Institute,academic quality,6,"Content is okay, but the pacing during term weeks is off."
+2024-06-11,S-10016,Lakeside College,professor teachings,8,"The professor explained things clearly, though a bit more real-world examples would help."
+2024-07-07,S-10017,Pine Valley School,sports facilities,7,"Facilities are decent, but sometimes equipment is unavailable when i need it."
+2024-08-29,S-10018,Cedar Grove School,extracurricular activities,9,"Lotsa options and friendly leaders, really helps me explore hobbies."
+2024-09-15,S-10019,Silver Oak School,personal motivation,7,Motivation came from peers and mentors; still missing a clear path for senior year.
+2024-10-05,S-10020,Blue Horizon School,communication with school,8,"Staff replies promptly now, which makes planning better and less stressful."
+2023-03-15,S-10421,Greenwood High School,academic quality,8,"The material covered was solid, but some lectures moved too fast and left me with questions."
+2023-04-02,S-20487,Riverside Academy,professor teachings,9,"Professors broadly know their stuff, yet a few explanations felt rushed and I wished for more real-world examples."
+2023-05-18,S-30872,Hillcrest School,sports facilities,7,"Equipment is decent, but the gym could use more maintenance and better scheduling."
+2023-06-11,S-41095,Maple Leaf School,extracurricular activities,6,"There are clubs, but it’s hard to find info on tryouts and the lists are not up to date."
+2023-07-09,S-51906,Sunrise Institute,personal motivation,7,Motivation comes from peers more than the school programs; I think pep talks could be better.
+2023-08-23,S-62301,Lakeside College,school climate,8,"Overall vibe is positive; some students feel ignored in certain classes, need more inclusive discussions."
+2023-09-14,S-73412,Pine Valley School,communication with school,9,"Emails get answered quickly, but sometimes critical updates arrive late; a single portal would help."
+2023-10-03,S-84277,Cedar Grove School,academic quality,5,Coursework is tough but the guidance isn’t helping me plan for next year.
+2023-11-19,S-95744,Silver Oak School,professor teachings,8,"In lectures, ideas click when the professor uses stories, still some slides are too text-heavy."
+2024-01-12,S-10112,Blue Horizon School,sports facilities,7,"Facilities are okay, but the gym hours don’t fit my schedule and equipment is sometimes faulty."
+2024-02-28,S-11293,Greenwood High School,extracurricular activities,6,"Clubs exist, but selection feels limited for newer interests; more diverse options would help."
+2024-03-21,S-22318,Riverside Academy,personal motivation,8,Motivation improves with small wins; some projects are ambitious but lack timely feedback.
+2024-04-16,S-33422,Hillcrest School,school climate,7,"Mostly friendly spaces, yet the lunch area can be noisy and chaotic during peak times."
+2024-05-07,S-44531,Maple Leaf School,communication with school,6,Messages about events are scattered; would be great to have a single calendar and alerts.
+2024-06-02,S-55642,Sunrise Institute,academic quality,9,Course content is rigorous and well-structured; the assignments align with what we learned.
+2024-07-19,S-66753,Lakeside College,professor teachings,7,"Some professors are engaging, others講 ramble without tying back to the main topic."
+2024-08-28,S-77864,Pine Valley School,sports facilities,8,"The fields are nice, and the instructors push us to improve; just need better booking system."
+2024-09-13,S-88975,Cedar Grove School,extracurricular activities,7,"Clubs are fun, but signups can be late and some events overlap with exams."
+2024-10-22,S-99016,Silver Oak School,personal motivation,5,Motivation dips when workload stacks up; needs more balanced pacing and guidance.
+2024-11-05,S-00149,Blue Horizon School,school climate,8,"Classmates overall supportive, though a few teachers seem distant and detached at times."
+2025-01-30,S-11347,Greenwood High School,communication with school,9,The portal and notices are clean; staff respond within a day when I reach out.
+2023-02-14,S-10452,Greenwood High School,academic quality,8,"The courses and materials were solid, but I wanted more real-world examples to connect theory with practice."
+2023-03-03,S-20487,Riverside Academy,professor teachings,9,"Dr. Mendes explains tough concepts clearly, but sometimes the lectures run long and feel rushed at the end."
+2023-04-21,S-31766,Hillcrest School,sports facilities,7,"Facilities are decent, but the gym feels crowded during peak hours and equipment is sometimes not maintained."
+2023-06-11,S-43120,Maple Leaf School,extracurricular activities,8,Love the variety of clubs; wish there were more beginner-friendly options for teens who want to explore new stuff.
+2023-09-09,S-52219,Sunrise Institute,personal motivation,6,"Motivation picked up after pep talks, though the reminders can feel a bit pushy."
+2023-11-15,S-60841,Lakeside College,school climate,7,"The vibe is generally positive, but some corners still feel a bit neglected and quiet."
+2024-01-28,S-71903,Pine Valley School,communication with school,5,"Messages sometimes get lost; I prefer SMS updates over email, they’re slower."
+2024-03-02,S-81127,Cedar Grove School,academic quality,9,课程内容很扎实，但考试焦虑有点高，希望增加平衡的评估方式。
+2024-04-18,S-91234,Silver Oak School,professor teachings,10,"Lectures are engaging and the feedback is specific, keeps me motivated to study more."
+2024-05-22,S-10129,Blue Horizon School,sports facilities,6,"The track and field setup is okay, but the changing rooms could use a refresh."
+2024-07-07,S-11258,Greenwood High School,extracurricular activities,9,Clubs are well-organized and inclusive; especially enjoyed the robotics team this year.
+2024-08-14,S-22347,Riverside Academy,personal motivation,7,"I feel more driven after mentor sessions, but snoozy mornings still kill my momentum."
+2024-09-29,S-33456,Hillcrest School,school climate,8,"Return to in-person interactions improved the atmosphere; still, some zones are too crowded."
+2024-10-12,S-44567,Maple Leaf School,communication with school,6,"Emails arrive late, and it’s hard to get timely answers to simple questions."
+2024-11-19,S-55678,Sunrise Institute,academic quality,7,"The coursework is solid, but I wish there were more hands-on labs."
+2025-01-03,S-66789,Lakeside College,professor teachings,8,"Professors generally clear, though a few slides are outdated and confusing."
+2025-02-16,S-77890,Pine Valley School,sports facilities,5,A bit disappointed with gym hours; seems like limited access during exam weeks.
+2025-04-01,S-88901,Cedar Grove School,extracurricular activities,10,Amazing range of activities and leadership opportunities; I found a perfect fit in debate.
+2025-05-20,S-99012,Silver Oak School,personal motivation,6,"Motivation wanes when grades slip, but the peer study groups help a lot."
+2023-03-15,S-10457,Greenwood High School,academic quality,8,"The curriculum feels solid and there are good resources, but it sometimes lacks real-world applicability."
+2023-04-22,S-20411,Riverside Academy,professor teachings,9,"Professors explain concepts clearly most days, though a few lectures went too quickly for me to take notes properly."
+2023-05-10,S-32007,Hillcrest School,sports facilities,6,"Locker rooms could be cleaner and the gym mats are worn out, but I like the new basketball court paint."
+2023-06-18,S-42119,Maple Leaf School,extracurricular activities,7,"There are many clubs, but schedules clash with exams sometimes; still, I found a coding club that’s pretty cool."
+2023-07-30,S-51284,Sunrise Institute,personal motivation,7,"I feel more driven when teachers give feedback, though I wish there were more milestones to celebrate progress."
+2023-09-05,S-60321,Lakeside College,school climate,8,"The vibe in the halls is friendly and inclusive, but there are moments of loud noise during lunch that can be disruptive."
+2023-11-14,S-71802,Pine Valley School,communication with school,6,"Messages sometimes take long to reply and the portal is a bit confusing, but staff are generally helpful when you reach them."
+2024-01-09,S-80931,Cedar Grove School,academic quality,5,The lectures are ok but the course materials could be more up-to-date and aligned with exams.
+2024-02-21,S-92103,Silver Oak School,professor teachings,10,Incredible lectures and patient mentors; they explain tough topics with real examples that stick.
+2024-03-18,S-10392,Blue Horizon School,sports facilities,4,Facilities feel outdated and the gym equipment isn’t reliable enough for regular practice.
+2024-04-29,S-11475,Greenwood High School,extracurricular activities,8,"There’s a club for almost everything, plus trips that broaden my horizons, which is pretty sweet."
+2024-05-25,S-12560,Riverside Academy,personal motivation,7,"Motivation grows when I see progress in myself, though some days I feel overwhelmed with deadlines."
+2024-06-12,S-13270,Hillcrest School,school climate,9,The school feels safe and respectful overall; minor issues with crowding during peak times.
+2024-07-03,S-14583,Maple Leaf School,communication with school,7,"Emails reach me, but notifications can get buried in my inbox; staff are kind when I finally message back."
+2024-08-19,S-15698,Sunrise Institute,academic quality,6,"Some courses are well-structured, others feel like they move too fast without enough practice problems."
+2024-09-07,S-16745,Lakeside College,professor teachings,8,"Clear explanations and useful demos, though attendance matters a lot for keeping up."
+2024-10-11,S-17892,Pine Valley School,sports facilities,7,"The team practice facilities are decent, but the track lighting could be better for evening runs."
+2024-11-02,S-18976,Cedar Grove School,extracurricular activities,9,Love the variety of activities and the leadership opportunities; I finally found my people.
+2024-12-20,S-19937,Silver Oak School,personal motivation,8,I’m more motivated after receiving timely feedback and seeing small wins along the way.
+2025-01-08,S-21054,Blue Horizon School,communication with school,5,Not a fan of the portal; it’s clunky and messages sometimes disappear in the ether.
+2025-02-27,S-22179,Greenwood High School,academic quality,9,The program challenges me just enough and the assessments reflect what we actually study; I’m learning a lot.
+2025-03-16,S-23341,Riverside Academy,professor teachings,6,"Some professors are fantastic, others could benefit from more structured office hours to help with questions."
+2023-03-12,S-00001,Greenwood High School,academic quality,9,"Overall the coursework is solid, but some topics feel rushed in the final weeks."
+2023-05-21,S-00002,Riverside Academy,professor teachings,8,"Professors explain concepts clearly most days, tho a few lectures went a bit fast for me."
+2023-07-04,S-00003,Hillcrest School,sports facilities,7,"The gym is nice, but the weight room gets crowded during after-school hours."
+2024-01-16,S-00004,Maple Leaf School,extracurricular activities,8,"Club options are diverse, yet I wish there were more hands-on science clubs."
+2024-03-09,S-00005,Sunrise Institute,personal motivation,6,"Motivation feels kinda inconsistent—sometimes reminders help, other times not so much."
+2024-04-02,S-00006,Lakeside College,school climate,7,"The vibe is generally positive, but there are pockets of tension in hallways during lunch."
+2024-05-18,S-00007,Pine Valley School,communication with school,9,"Messages from admin reach us quickly and clearly most of the time, which is great."
+2024-06-25,S-00008,Cedar Grove School,academic quality,5,"Some units felt disjointed, and the pacing was off in several topics."
+2024-08-14,S-00009,Silver Oak School,professor teachings,10,"Instructors are engaging, explain with real-world examples, and answer questions patiently."
+2024-09-01,S-00010,Blue Horizon School,sports facilities,6,"Facilities are decent, but the track area needs better maintenance and scheduling."
+2024-10-11,S-00011,Greenwood High School,extracurricular activities,7,"There’s a good mix of clubs, though funding for some activities is tight."
+2024-11-03,S-00012,Riverside Academy,personal motivation,7,I feel encouraged by some mentors but could use more consistent check-ins.
+2025-02-22,S-00013,Hillcrest School,school climate,8,The environment is supportive overall; a few classrooms seem a bit cold.
+2025-03-15,S-00014,Maple Leaf School,communication with school,8,"Emails are answered promptly, although sometimes replies miss key details."
+2025-04-28,S-00015,Sunrise Institute,academic quality,6,Found some newer courses interesting but others feel too theoretical.
+2025-05-07,S-00016,Lakeside College,professor teachings,9,Lectures are lively; the professor uses stories that help me remember concepts.
+2025-05-18,S-00017,Pine Valley School,sports facilities,8,"Sports fields are well-kept, though equipment sometimes isn’t ready."
+2025-06-02,S-00018,Cedar Grove School,extracurricular activities,9,There’s something for everyone; I joined a couple and it’s been the highlight of my week.
+2025-06-15,S-00019,Silver Oak School,personal motivation,5,"Gotta say, staying motivated is hard when assignments pile up fast."
+2025-06-28,S-00020,Blue Horizon School,communication with school,7,"Staff are generally approachable, but some forms are confusing to fill out."
+2023-03-14,S-20485,Greenwood High School,academic quality,8,"Overall, the coursework is solid, but some topics felt rushed in the second semester."
+2023-05-22,S-89102,Riverside Academy,professor teachings,9,"The professor explains concepts clearly, and uses real-world examples that clicked for me."
+2024-01-11,S-13760,Hillcrest School,sports facilities,6, facilities are ok but gym sometimes crowded; more equipment would help.
+2024-03-05,S-40218,Maple Leaf School,extracurricular activities,7,"There are clubs I like, but the selection rotates too slowly; I wish for more varied options."
+2024-07-19,S-76044,Sunrise Institute,personal motivation,5,I sometimes feel unmotivated in long projects; need better support.
+2023-10-02,S-55671,Lakeside College,school climate,7,"Overall vibe is positive, but occasional favoritism rumors knock the mood."
+2025-02-28,S-11389,Pine Valley School,communication with school,8,"Emails and reminders help me stay on track, staff replies are timely."
+2023-12-15,S-29971,Cedar Grove School,academic quality,7,课程内容挺全面，有些章节有点难，但老师们愿意补课.
+2024-04-09,S-88312,Silver Oak School,professor teachings,10,"The teacher is engaging and patient, explains tricky parts without rushing."
+2023-09-30,S-46821,Blue Horizon School,sports facilities,4,Gym is small and the equipment is worn out; not great for practice.
+2025-03-18,S-21476,Greenwood High School,extracurricular activities,8,"I love the debate club, and the robotics team is awesome too."
+2023-11-07,S-77854,Riverside Academy,personal motivation,6,"Some days I just need more pep talks, ya know? It varies."
+2024-06-24,S-65981,Hillcrest School,school climate,9,Teachers respect students and the corridors feel safe; nice atmosphere.
+2024-08-12,S-14097,Maple Leaf School,communication with school,7,"Staff are approachable, though sometimes front desk is busy."
+2025-01-08,S-30471,Sunrise Institute,academic quality,6,"Reasonable courses, but a few outdated references in readings."
+2023-06-29,S-91240,Lakeside College,professor teachings,5,"The lecturer spoke fast, I missed several points."
+2024-02-02,S-56613,Pine Valley School,sports facilities,9,The new gym renovation totally changed my training vibe for the better.
+2025-04-23,S-31258,Cedar Grove School,extracurricular activities,6,"Clubs are decent, but the schedule clashes with classes sometimes."
+2023-08-18,S-77734,Silver Oak School,communication with school,7,Messages come through but sometimes I have to chase for updates.
+2023-07-04,S-14568,Blue Horizon School,personal motivation,8,"A few teachers push me to try harder, which helps."
+2023-02-15,S-10234,Greenwood High School,academic quality,8,"The course materials are solid, but lectures sometimes ramble and miss key takeaways."
+2023-03-10,S-20456,Riverside Academy,professor teachings,9,"Professors explain complex ideas clearly most days, though a few sessions felt rushed and left extra questions."
+2023-04-01,S-30789,Hillcrest School,sports facilities,7,"Facility gym is clean and well-maintained, but the court flooring needs an update; equipment is decent."
+2023-05-22,S-41023,Maple Leaf School,extracurricular activities,8,"There are plenty of clubs, though some events clash with sports practice; still, I found a good fit."
+2023-06-18,S-51234,Sunrise Institute,personal motivation,6,"I feel a bit discouraged lately, but mentors offer support when I reach out."
+2023-07-11,S-61345,Lakeside College,school climate,8,"Overall vibe is positive, peers are respectful, though some admin processes are slow."
+2023-08-05,S-71456,Pine Valley School,communication with school,7,"Emails usually answered within a day, but sometimes messages get lost in the inbox."
+2023-09-20,S-81567,Cedar Grove School,academic quality,9,The syllabus is rigorous and well-structured; I appreciate the clear expectations.
+2024-01-12,S-91678,Silver Oak School,professor teachings,8,Drills and examples help me connect theory to practice; occasionally the pacing is inconsistent.
+2024-02-28,S-10239,Blue Horizon School,sports facilities,6,Field is nice but there is limited shade and the lighting at night is not great.
+2024-03-07,S-20340,Greenwood High School,extracurricular activities,7,"I joined two clubs this year, yet logistics for signups could be streamlined."
+2024-04-14,S-30451,Riverside Academy,personal motivation,5,"Honestly, motivation waxes and wanes; staff encouragement helps a bit but not enough."
+2024-05-29,S-40523,Hillcrest School,school climate,9,"Supportive environment, inclusive culture, and respectful communication all around."
+2024-06-07,S-50642,Maple Leaf School,communication with school,8,"Notifications are clear, but sometimes I wish more proactive updates about schedule changes."
+2024-07-19,S-60751,Sunrise Institute,academic quality,7,"Materials are helpful; assignments can be heavy, though the feedback is constructive."
+2024-08-03,S-70862,Lakeside College,professor teachings,6,Lectures sometimes feel dry; discussion sections make up for it when they’re offered.
+2024-09-11,S-80973,Pine Valley School,sports facilities,8,"Gym and courts are solid, but booking times are awkward during peak hours."
+2024-10-26,S-91084,Cedar Grove School,extracurricular activities,9,Club options are fantastic this year; I found a mentorship program that aligns with my goals.
+2024-11-18,S-01195,Silver Oak School,personal motivation,7,Feeling motivated again after setting small milestones and getting positive feedback.
+2025-02-04,S-12203,Blue Horizon School,school climate,6,Too many rumors around campus; need clearer communication from leadership.
+2023-02-14,S-10458,Greenwood High School,academic quality,8,"Overall good curriculum, but sometimes the pace is fast for slower learners."
+2023-03-21,S-20479,Riverside Academy,professor teachings,9,"The professor explains concepts clearly most days, though a few sessions felt rushed and skipped key examples."
+2023-04-05,S-30982,Hillcrest School,sports facilities,6,Facilities decent but the gym mats are worn out and the courts need better maintenance.
+2023-05-18,S-41023,Maple Leaf School,extracurricular activities,7,"There are clubs, yet I wish more options for creative or tech groups, not just sports."
+2023-06-30,S-51247,Sunrise Institute,personal motivation,8,Motivation from staff is generally good; sometimes I feel we aren't pushed to set ambitious goals.
+2023-07-12,S-61852,Lakeside College,school climate,7,"The vibe is chill, but a few teachers seem stressed, which bled into the class vibe."
+2023-08-29,S-72468,Pine Valley School,communication with school,8,"Emails are answered, though sometimes important notes arrive late and with terse language."
+2023-11-02,S-83271,Cedar Grove School,academic quality,9,Coursework challenges me in a good way; teachers strike a balance between theory and practice.
+2024-01-17,S-93714,Silver Oak School,professor teachings,5,Some lectures feel dry; need more real-world examples and interactive activities.
+2024-02-25,S-10432,Blue Horizon School,sports facilities,7,"The track and swim area are decent, but the gym equipment could be newer."
+2024-03-11,S-20674,Greenwood High School,extracurricular activities,6,Not enough leadership opportunities in clubs; more volunteering options would help.
+2024-04-03,S-30891,Riverside Academy,personal motivation,9,Staff encouragement really helped me stay motivated through tough projects.
+2024-05-19,S-41905,Hillcrest School,school climate,6,Classrooms feel crowded; better space management would improve focus.
+2024-06-14,S-52108,Maple Leaf School,communication with school,7,"Front desk is friendly, but some messages get lost in the system."
+2024-07-22,S-62317,Sunrise Institute,academic quality,8,Balanced exams and assignments; the grading feels fair most of the time.
+2024-08-09,S-73529,Lakeside College,professor teachings,7,"Professors explain well when engaged, but online sessions sometimes lag."
+2024-09-01,S-84370,Pine Valley School,sports facilities,6,"Sports labs are ok, but booking times are inconsistent, annoying."
+2024-10-11,S-95412,Cedar Grove School,extracurricular activities,8,I joined robotics and drama; both are well-supported and fun.
+2024-11-05,S-10684,Silver Oak School,personal motivation,7,I feel more driven after setting clear personal goals with my mentor.
+2025-01-28,S-11875,Blue Horizon School,school climate,9,"Overall atmosphere is positive, classmates are kind, and teachers care."
+2025-03-15,S-12768,Greenwood High School,communication with school,8,Notifications reach me but sometimes it is hard to track what matters most.
+2023-03-15,S-10425,Greenwood High School,academic quality,8,Overall the courses are solid but sometimes the material moves too fast for a few topics.
+2023-04-02,S-23119,Riverside Academy,professor teachings,9,"The professor explains concepts clearly, though a couple of lectures felt a bit rushed."
+2023-05-22,S-51762,Hillcrest School,sports facilities,7,"Facilities are decent, but locker rooms could be cleaner and the gym mats are worn."
+2023-08-11,S-94210,Maple Leaf School,extracurricular activities,6,"There are clubs I wish they offered, like robotics, and some events clash with sports practice."
+2023-09-08,S-31874,Sunrise Institute,personal motivation,8,"I feel motivated by teachers who care, though some days the workload is heavy."
+2023-11-20,S-76311,Lakeside College,school climate,7,"Overall vibe is friendly, but a few classrooms feel tense during exams."
+2024-01-12,S-15832,Pine Valley School,communication with school,8,"Emails are answered, but sometimes responses take too long and information gets scattered."
+2024-02-28,S-64120,Cedar Grove School,academic quality,9,Assignments are interesting and well structured; I wish more real-world examples were used.
+2024-04-18,S-27105,Silver Oak School,professor teachings,7,"Professors know their stuff, but a couple lectures felt dry and long."
+2024-06-03,S-50988,Blue Horizon School,sports facilities,8,"The sports facilities are pretty good, though the track gets crowded after lunch."
+2024-07-21,S-41276,Greenwood High School,extracurricular activities,9,Lotsa options and the leadership program is solid; would love more peer mentoring.
+2024-08-14,S-98547,Riverside Academy,personal motivation,6,"Sometimes I just feel burnt out, the encouragement isn’t always there."
+2024-09-06,S-23311,Hillcrest School,school climate,8,"The campus feels welcoming, but mixing age groups in some common areas cause crowding."
+2024-11-02,S-74201,Maple Leaf School,communication with school,7,"Messages reach us, but follow-ups are slow and the info is scattered across channels."
+2025-01-19,S-61824,Sunrise Institute,academic quality,8,Coursework is challenging yet fair; more group projects could help understanding.
+2025-02-10,S-11570,Lakeside College,professor teachings,9,"Instructors are engaging and patient, makes difficult topics understandable."
+2025-03-07,S-32581,Pine Valley School,sports facilities,6,"Sports gear seems outdated, but courts are usable; year-end maintenance would help."
+2025-04-25,S-43976,Cedar Grove School,extracurricular activities,8,"Clubs are diverse and well-supported, though scheduling conflicts exist for some students."
+2025-05-16,S-90732,Silver Oak School,personal motivation,7,Need more mentorship; some days I feel lost about next steps.
+2025-06-07,S-55291,Blue Horizon School,communication with school,8,"Staff are friendly and approachable, yet some forms are hard to locate online."
+2023-03-12,S-10001,Greenwood High School,academic quality,8,"The course materials are solid and exams fairly reflect what we learn, though sometimes the pacing is off."
+2023-04-02,S-10002,Riverside Academy,professor teachings,9,"Professors explain concepts clearly most days, but one instructor tends to rush through examples and skip steps."
+2023-05-18,S-10003,Hillcrest School,sports facilities,6,The gym is nice but equipment is older and the courts feel crowded after lunch.
+2023-06-20,S-10004,Maple Leaf School,extracurricular activities,7,"There are clubs I like, but the sign-up process could be more inviting; some options never show up on the portal."
+2023-07-11,S-10005,Sunrise Institute,personal motivation,8,"Motivation comes from the teachers who care, still I wish there were more check-ins to keep students on track."
+2023-08-22,S-10006,Lakeside College,school climate,7,"Generally supportive vibe, but a few hallways can feel a little tense during peak times."
+2023-09-14,S-10007,Pine Valley School,communication with school,5,Messages from admin annoyingly slow; emails sometimes get ignored.
+2023-10-03,S-10008,Cedar Grove School,academic quality,9,"The curriculum is challenging and relevant, great prep for exams; some assessments are a bit unbalanced."
+2023-11-29,S-10009,Silver Oak School,professor teachings,10,"Instructors are engaging, games and real-world examples make lectures stick, loved the interactive sessions."
+2023-12-17,S-10010,Blue Horizon School,sports facilities,5,"Field trips are fun but the gym floor is slippery when wet, safety first please."
+2024-01-21,S-10011,Greenwood High School,extracurricular activities,6,"There are options, but some clubs meet too late for after-school buses."
+2024-02-08,S-10012,Riverside Academy,personal motivation,7,"People here push you to do better, yet a few reminders would help those who are procrastinators."
+2024-03-15,S-10013,Hillcrest School,school climate,8,"Supportive environment overall, small groups make it easier to share ideas without fear."
+2024-04-04,S-10014,Maple Leaf School,communication with school,6,"Emails sometimes bounce; when I call, I get through, but it takes a while."
+2024-05-28,S-10015,Sunrise Institute,academic quality,7,"The math dept rocks, but the history unit felt a bit rushed and light on sources."
+2024-06-19,S-10016,Lakeside College,professor teachings,8,"Clear explanations and helpful feedback, but some lectures are too theory-heavy."
+2024-07-09,S-10017,Pine Valley School,sports facilities,9,"Track and basketball courts are top-notch, modern and well-maintained."
+2024-08-31,S-10018,Cedar Grove School,extracurricular activities,5,"Clubs don’t always align with interests, could use more variety and student-led events."
+2024-09-22,S-10019,Silver Oak School,personal motivation,6,"Peer support exists, but some days you feel lost without a mentor check-in."
+2024-10-11,S-10020,Blue Horizon School,communication with school,7,"Comfortable to raise questions, though the response times can still be slow during peak weeks."
+2023-03-15,S-10234,Greenwood High School,academic quality,8,"Solid overall curriculum, but some topics felt rushed."
+2023-04-22,S-20487,Riverside Academy,professor teachings,9,"Professors explain concepts clearly most days, but a few sessions were hard to follow."
+2023-05-09,S-30821,Hillcrest School,sports facilities,7,"The gym has good equipment, yet the schedule is chaotic during peak times."
+2023-06-02,S-41098,Maple Leaf School,extracurricular activities,8,"There are many clubs, but lag in communication for events is annoying."
+2023-07-18,S-52104,Sunrise Institute,personal motivation,6,"Some days I feel more inspired than others, maybe more goals would help."
+2023-08-30,S-63311,Lakeside College,school climate,8,"Chill vibe overall, supportive seniors, but admin can be a bit distant."
+2023-09-14,S-74576,Pine Valley School,communication with school,7,"Emails reach us, but responses take too long sometimes."
+2023-10-27,S-85642,Cedar Grove School,academic quality,9,"Coursework is rigorous and relevant, loved some new electives."
+2023-11-11,S-96713,Silver Oak School,professor teachings,6,"Teacher explanations ok, but lots of homework to balance."
+2023-12-03,S-10850,Blue Horizon School,sports facilities,8,"Fields are clean, courts nice, but maintenance sometimes lags."
+2024-01-19,S-21094,Greenwood High School,extracurricular activities,7,Clubs are varied; sometimes signup is confusing.
+2024-02-08,S-31275,Riverside Academy,personal motivation,7,"Feeling motivated mostly, but guidance counselors could push us harder."
+2024-03-31,S-41560,Hillcrest School,school climate,8,"Strong sense of belonging here, though some policies feel outdated."
+2024-04-22,S-51840,Maple Leaf School,communication with school,6,"Messages sometimes get buried in inboxes, not ideal."
+2024-05-07,S-62077,Sunrise Institute,academic quality,10,Really impressed by how the curriculum connects with real life.
+2024-06-18,S-72291,Lakeside College,professor teachings,9,"Professors are engaging, patient, and genuinely want us to learn."
+2024-07-29,S-83412,Pine Valley School,sports facilities,5,"Gym is outdated, feels cramped during after-school rush."
+2024-08-12,S-94536,Cedar Grove School,extracurricular activities,9,"There’s a club for almost everything, very inclusive."
+2024-09-04,S-15672,Silver Oak School,personal motivation,7,"I’m motivated when mentors check in, less when they don’t."
+2024-10-16,S-26741,Blue Horizon School,communication with school,8,Staff are helpful; it’s easy to set up meetings and ask questions.
+2025-01-28,S-37852,Riverside Academy,academic quality,9,"Coursework challenging but fair, real learning happening."
+2023-03-15,S-10234,Greenwood High School,academic quality,8,"The curriculum is solid, but a few courses felt rushed and left me wanting more depth."
+2023-04-22,S-20487,Riverside Academy,professor teachings,9,"Professors explain concepts clearly most times, though a couple lectures could use more real-world examples."
+2023-05-10,S-30811,Hillcrest School,sports facilities,6,"Facilities are decent, but the gym gets crowded and the equipment is sometimes worn."
+2023-06-18,S-41222,Maple Leaf School,extracurricular activities,7,"There are options, but I wish there were more clubs for tech and creative writing."
+2023-07-09,S-50999,Sunrise Institute,personal motivation,5,"Sometimes I felt ignored in class, like I had to push myself more than others."
+2023-08-02,S-62344,Lakeside College,school climate,7,"Overall it’s friendly, but there can be tension during exams and group projects."
+2023-09-16,S-70123,Pine Valley School,communication with school,8,"Emails are answered promptly most times, though scheduling meetings can be a hassle."
+2023-10-11,S-82011,Cedar Grove School,academic quality,9,Course materials are strong and the tests align with what we learn in class.
+2023-11-07,S-93421,Silver Oak School,professor teachings,8,"Teaching is engaging, but some professors rely too much on slides and not enough discussion."
+2023-12-01,S-15001,Blue Horizon School,sports facilities,7,"Play areas are nice, but the track is sometimes slippery after rain."
+2024-01-14,S-25172,Greenwood High School,extracurricular activities,6,"A few clubs exist, but I’d love a robotics or debate team to join."
+2024-02-20,S-36844,Riverside Academy,personal motivation,6,"Motivation comes and goes; some days I’m fired up, other days I’m just tired."
